@@ -28,7 +28,7 @@ last_run = datetime.strptime(cache['last_run'],'%Y-%m-%dT%H:%M:%SZ')
 # exit()
 
 i = 0
-for repo in fetchjson('https://api.github.com/search/repositories?q=scoop+buckets&per_page=500')['items']:
+for repo in fetchjson('https://api.github.com/search/repositories?q=scoop+bucket&per_page=500')['items']:
     
     name = repo['name']
     repofoldername = repo['full_name'].replace('/','+')
@@ -74,7 +74,7 @@ print(i,' repos updated')
 #Sort Repos by github score
 repos = [repo for repo in cache.keys()]
 actual_repos = [ repo for repo in repos if (repo != 'last_run' and len(cache[repo]['entries']) > 0) ]
-sorted(actual_repos, key=lambda repo:cache[repo]['score'])
+actual_repos = sorted(actual_repos, key=lambda repo:cache[repo]['score'])
 print(str(len(actual_repos)) + 'valid repositories found.')
 
 #Update Readme file
