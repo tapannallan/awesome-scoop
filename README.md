@@ -16,6 +16,7 @@ A collection of awesome resource for the scoop package manager for windows
   * [virtualbox52-np](https://github.com/oltolm/scoop-nonportable/blob/master/bucket/virtualbox52-np.json)
   * [pgadmin4-np](https://github.com/oltolm/scoop-nonportable/blob/master/bucket/pgadmin4-np.json)
   * [virtualbox-np](https://github.com/oltolm/scoop-nonportable/blob/master/bucket/virtualbox-np.json)
+  * [bluestacks-np](https://github.com/oltolm/scoop-nonportable/blob/master/bucket/bluestacks-np.json)
   * [putty-np](https://github.com/oltolm/scoop-nonportable/blob/master/bucket/putty-np.json)
   * [vmware-horizon-client-np](https://github.com/oltolm/scoop-nonportable/blob/master/bucket/vmware-horizon-client-np.json)
   * [k-lite-codec-pack-mega-np](https://github.com/oltolm/scoop-nonportable/blob/master/bucket/k-lite-codec-pack-mega-np.json)
@@ -31,6 +32,7 @@ A collection of awesome resource for the scoop package manager for windows
   * [winfsp-np](https://github.com/oltolm/scoop-nonportable/blob/master/bucket/winfsp-np.json)
   * [8gadgetpack-np](https://github.com/oltolm/scoop-nonportable/blob/master/bucket/8gadgetpack-np.json)
   * [k-lite-codec-pack-basic-np](https://github.com/oltolm/scoop-nonportable/blob/master/bucket/k-lite-codec-pack-basic-np.json)
+  * [veyon-np](https://github.com/oltolm/scoop-nonportable/blob/master/bucket/veyon-np.json)
   * [winrar-np](https://github.com/oltolm/scoop-nonportable/blob/master/bucket/winrar-np.json)
   * [teamviewer-np](https://github.com/oltolm/scoop-nonportable/blob/master/bucket/teamviewer-np.json)
   * [nsis-np](https://github.com/oltolm/scoop-nonportable/blob/master/bucket/nsis-np.json)
@@ -633,6 +635,7 @@ A collection of awesome resource for the scoop package manager for windows
   * [recycle](https://github.com/wangzq/scoop-bucket/blob/master/bucket/recycle.json)
   * [sqliteman](https://github.com/wangzq/scoop-bucket/blob/master/bucket/sqliteman.json)
   * [NugetPackageExplorer](https://github.com/wangzq/scoop-bucket/blob/master/bucket/NugetPackageExplorer.json)
+  * [jpad](https://github.com/wangzq/scoop-bucket/blob/master/bucket/jpad.json)
   * [pswhich](https://github.com/wangzq/scoop-bucket/blob/master/bucket/pswhich.json)
   * [tracecli](https://github.com/wangzq/scoop-bucket/blob/master/bucket/tracecli.json)
   * [OwinHost](https://github.com/wangzq/scoop-bucket/blob/master/bucket/OwinHost.json)
@@ -1381,9 +1384,24 @@ A collection of awesome resource for the scoop package manager for windows
 
 
 
-[https://github.com/NSIS-Dev/scoop-nsis](https://github.com/NSIS-Dev/scoop-nsis)
-  * [package-lock](https://github.com/NSIS-Dev/scoop-nsis/blob/master/bucket/package-lock.json)
-  * [package](https://github.com/NSIS-Dev/scoop-nsis/blob/master/bucket/package.json)
+[https://github.com/comp500/scoop-comp500](https://github.com/comp500/scoop-comp500)
+  * [titledumper](https://github.com/comp500/scoop-comp500/blob/master/bucket/titledumper.json)
+  * [famitracker](https://github.com/comp500/scoop-comp500/blob/master/bucket/famitracker.json)
+  * [crystaldiskinfo](https://github.com/comp500/scoop-comp500/blob/master/bucket/crystaldiskinfo.json)
+  * [cemu](https://github.com/comp500/scoop-comp500/blob/master/bucket/cemu.json)
+  * [dolphin5](https://github.com/comp500/scoop-comp500/blob/master/bucket/dolphin5.json)
+  * [cemu-shortcut](https://github.com/comp500/scoop-comp500/blob/master/bucket/cemu-shortcut.json)
+  * [dolphin-dev](https://github.com/comp500/scoop-comp500/blob/master/bucket/dolphin-dev.json)
+  * [win32diskimager](https://github.com/comp500/scoop-comp500/blob/master/bucket/win32diskimager.json)
+  * [multimc](https://github.com/comp500/scoop-comp500/blob/master/bucket/multimc.json)
+  * [powdertoy](https://github.com/comp500/scoop-comp500/blob/master/bucket/powdertoy.json)
+  * [schismtracker](https://github.com/comp500/scoop-comp500/blob/master/bucket/schismtracker.json)
+  * [treesize](https://github.com/comp500/scoop-comp500/blob/master/bucket/treesize.json)
+  * [openttd](https://github.com/comp500/scoop-comp500/blob/master/bucket/openttd.json)
+  * [iperf3](https://github.com/comp500/scoop-comp500/blob/master/bucket/iperf3.json)
+  * [cemuhook](https://github.com/comp500/scoop-comp500/blob/master/bucket/cemuhook.json)
+  * [syncplay](https://github.com/comp500/scoop-comp500/blob/master/bucket/syncplay.json)
+  * [crystaldiskmark](https://github.com/comp500/scoop-comp500/blob/master/bucket/crystaldiskmark.json)
 
 
 
@@ -1431,6 +1449,27 @@ A collection of awesome resource for the scoop package manager for windows
 
 
 
+[https://github.com/NSIS-Dev/scoop-nsis](https://github.com/NSIS-Dev/scoop-nsis)
+  * [package-lock](https://github.com/NSIS-Dev/scoop-nsis/blob/master/bucket/package-lock.json)
+  * [package](https://github.com/NSIS-Dev/scoop-nsis/blob/master/bucket/package.json)
+
+
+
+[https://github.com/gexclaude/scoop-bucket](https://github.com/gexclaude/scoop-bucket)
+  * [aareguru](https://github.com/gexclaude/scoop-bucket/blob/master/bucket/aareguru.json)
+
+
+
+[https://github.com/simonwjackson/my-bucket](https://github.com/simonwjackson/my-bucket)
+  * [vivaldi](https://github.com/simonwjackson/my-bucket/blob/master/bucket/vivaldi.json)
+
+
+
+[https://github.com/go2sun/Scoop-bucket](https://github.com/go2sun/Scoop-bucket)
+  * [hello](https://github.com/go2sun/Scoop-bucket/blob/master/bucket/hello.json)
+
+
+
 [https://github.com/Sandex/scoop-supernova](https://github.com/Sandex/scoop-supernova)
   * [ms-vc14](https://github.com/Sandex/scoop-supernova/blob/master/bucket/ms-vc14.json)
   * [php7](https://github.com/Sandex/scoop-supernova/blob/master/bucket/php7.json)
@@ -1461,27 +1500,6 @@ A collection of awesome resource for the scoop package manager for windows
 
 
 
-[https://github.com/gexclaude/scoop-bucket](https://github.com/gexclaude/scoop-bucket)
-  * [aareguru](https://github.com/gexclaude/scoop-bucket/blob/master/bucket/aareguru.json)
-
-
-
-[https://github.com/simonwjackson/my-bucket](https://github.com/simonwjackson/my-bucket)
-  * [vivaldi](https://github.com/simonwjackson/my-bucket/blob/master/bucket/vivaldi.json)
-
-
-
-[https://github.com/go2sun/Scoop-bucket](https://github.com/go2sun/Scoop-bucket)
-  * [hello](https://github.com/go2sun/Scoop-bucket/blob/master/bucket/hello.json)
-
-
-
-[https://github.com/riscorpian/my-bucket](https://github.com/riscorpian/my-bucket)
-  * [siv](https://github.com/riscorpian/my-bucket/blob/master/bucket/siv.json)
-  * [hello](https://github.com/riscorpian/my-bucket/blob/master/bucket/hello.json)
-
-
-
 [https://github.com/furyfire/my-bucket](https://github.com/furyfire/my-bucket)
   * [mosquitto](https://github.com/furyfire/my-bucket/blob/master/bucket/mosquitto.json)
 
@@ -1499,6 +1517,12 @@ A collection of awesome resource for the scoop package manager for windows
 
 
 
+[https://github.com/riscorpian/my-bucket](https://github.com/riscorpian/my-bucket)
+  * [siv](https://github.com/riscorpian/my-bucket/blob/master/bucket/siv.json)
+  * [hello](https://github.com/riscorpian/my-bucket/blob/master/bucket/hello.json)
+
+
+
 [https://github.com/sh4869221b/scoop-bucket](https://github.com/sh4869221b/scoop-bucket)
   * [HyperV-Switch](https://github.com/sh4869221b/scoop-bucket/blob/master/bucket/HyperV-Switch.json)
   * [ganttproject](https://github.com/sh4869221b/scoop-bucket/blob/master/bucket/ganttproject.json)
@@ -1513,6 +1537,11 @@ A collection of awesome resource for the scoop package manager for windows
   * [min](https://github.com/sh4869221b/scoop-bucket/blob/master/bucket/min.json)
   * [psc-package](https://github.com/sh4869221b/scoop-bucket/blob/master/bucket/psc-package.json)
   * [glassfish](https://github.com/sh4869221b/scoop-bucket/blob/master/bucket/glassfish.json)
+
+
+
+[https://github.com/XmXm/scoop-bucket](https://github.com/XmXm/scoop-bucket)
+  * [QQ](https://github.com/XmXm/scoop-bucket/blob/master/bucket/QQ.json)
 
 
 
@@ -1537,14 +1566,16 @@ A collection of awesome resource for the scoop package manager for windows
 
 
 
-[https://github.com/XmXm/scoop-bucket](https://github.com/XmXm/scoop-bucket)
-  * [QQ](https://github.com/XmXm/scoop-bucket/blob/master/bucket/QQ.json)
-
-
-
 [https://github.com/klaidliadon/scoop-buckets](https://github.com/klaidliadon/scoop-buckets)
   * [rethinkdb](https://github.com/klaidliadon/scoop-buckets/blob/master/bucket/rethinkdb.json)
   * [glide](https://github.com/klaidliadon/scoop-buckets/blob/master/bucket/glide.json)
+
+
+
+[https://github.com/pfmoore/scoop-enk](https://github.com/pfmoore/scoop-enk)
+  * [goawk](https://github.com/pfmoore/scoop-enk/blob/master/bucket/goawk.json)
+  * [spigot](https://github.com/pfmoore/scoop-enk/blob/master/bucket/spigot.json)
+  * [rush](https://github.com/pfmoore/scoop-enk/blob/master/bucket/rush.json)
 
 
 
@@ -1574,7 +1605,6 @@ A collection of awesome resource for the scoop package manager for windows
   * [mcomix](https://github.com/patrick330602/pkscbk/blob/master/bucket/mcomix.json)
   * [desmume](https://github.com/patrick330602/pkscbk/blob/master/bucket/desmume.json)
   * [golly](https://github.com/patrick330602/pkscbk/blob/master/bucket/golly.json)
-  * [ntop](https://github.com/patrick330602/pkscbk/blob/master/bucket/ntop.json)
 
 
 
@@ -1599,6 +1629,11 @@ A collection of awesome resource for the scoop package manager for windows
 
 
 
+[https://github.com/FMajesty/scoop](https://github.com/FMajesty/scoop)
+  * [termius](https://github.com/FMajesty/scoop/blob/master/bucket/termius.json)
+
+
+
 [https://github.com/anurse/scoop-bucket](https://github.com/anurse/scoop-bucket)
   * [python2](https://github.com/anurse/scoop-bucket/blob/master/bucket/python2.json)
   * [ilspy](https://github.com/anurse/scoop-bucket/blob/master/bucket/ilspy.json)
@@ -1611,6 +1646,11 @@ A collection of awesome resource for the scoop package manager for windows
 
 
 
+[https://github.com/janet-lang/scoop](https://github.com/janet-lang/scoop)
+  * [janet](https://github.com/janet-lang/scoop/blob/master/bucket/janet.json)
+
+
+
 [https://github.com/TnmkFan/my-bucket](https://github.com/TnmkFan/my-bucket)
   * [vagrant](https://github.com/TnmkFan/my-bucket/blob/master/bucket/vagrant.json)
 
@@ -1618,11 +1658,6 @@ A collection of awesome resource for the scoop package manager for windows
 
 [https://github.com/Southclaws/scoops](https://github.com/Southclaws/scoops)
   * [sampctl](https://github.com/Southclaws/scoops/blob/master/bucket/sampctl.json)
-
-
-
-[https://github.com/janet-lang/scoop](https://github.com/janet-lang/scoop)
-  * [janet](https://github.com/janet-lang/scoop/blob/master/bucket/janet.json)
 
 
 
@@ -1657,11 +1692,6 @@ A collection of awesome resource for the scoop package manager for windows
 
 
 
-[https://github.com/lawrencegripper/scoop-bucket](https://github.com/lawrencegripper/scoop-bucket)
-  * [azbrowse](https://github.com/lawrencegripper/scoop-bucket/blob/master/bucket/azbrowse.json)
-
-
-
 [https://github.com/matoro/bucket](https://github.com/matoro/bucket)
   * [tinc-pre](https://github.com/matoro/bucket/blob/master/bucket/tinc-pre.json)
   * [pcsx2-nightly](https://github.com/matoro/bucket/blob/master/bucket/pcsx2-nightly.json)
@@ -1670,9 +1700,8 @@ A collection of awesome resource for the scoop package manager for windows
 
 
 
-[https://github.com/andreysaksonov/scoop-bucket](https://github.com/andreysaksonov/scoop-bucket)
-  * [springboot](https://github.com/andreysaksonov/scoop-bucket/blob/master/bucket/springboot.json)
-  * [springboot15](https://github.com/andreysaksonov/scoop-bucket/blob/master/bucket/springboot15.json)
+[https://github.com/lawrencegripper/scoop-bucket](https://github.com/lawrencegripper/scoop-bucket)
+  * [azbrowse](https://github.com/lawrencegripper/scoop-bucket/blob/master/bucket/azbrowse.json)
 
 
 
@@ -1705,15 +1734,5 @@ A collection of awesome resource for the scoop package manager for windows
   * [keepassxc](https://github.com/doughyjohnny/my-bucket/blob/master/bucket/keepassxc.json)
   * [waterfox-alpha](https://github.com/doughyjohnny/my-bucket/blob/master/bucket/waterfox-alpha.json)
   * [hello](https://github.com/doughyjohnny/my-bucket/blob/master/bucket/hello.json)
-
-
-
-[https://github.com/Bios-Marcel/scoopbucket](https://github.com/Bios-Marcel/scoopbucket)
-  * [cordless](https://github.com/Bios-Marcel/scoopbucket/blob/master/bucket/cordless.json)
-
-
-
-[https://github.com/DeezCashews/tilt-bucket](https://github.com/DeezCashews/tilt-bucket)
-  * [cvs-woe](https://github.com/DeezCashews/tilt-bucket/blob/master/bucket/cvs-woe.json)
 
 
