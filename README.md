@@ -7,7 +7,7 @@ A collection of awesome resource for the scoop package manager for windows
 # Third party buckets by popularity
 
 [https://github.com/h404bi/dorado](https://github.com/h404bi/dorado)
-  * [package](https://github.com/h404bi/dorado/blob/master/bucket/package.json)
+  * [package](https://github.com/h404bi/dorado/blob/master/package.json)
 
 
 
