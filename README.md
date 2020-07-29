@@ -2,7 +2,7 @@
 A collection of awesome resource for the scoop package manager for windows
 
 # Build Status
-![Build Status](https://travis-ci.org/tapanchandra/awesome-scoop.svg?branch=master)
+![Build Status](https://travis-ci.org/tapannallan/awesome-scoop.svg?branch=master)
 
 # Third party buckets by popularity
 
@@ -1906,6 +1906,12 @@ A collection of awesome resource for the scoop package manager for windows
 
 
 
+[https://github.com/klaidliadon/scoop-buckets](https://github.com/klaidliadon/scoop-buckets)
+  * [rethinkdb](https://github.com/klaidliadon/scoop-buckets/blob/master/rethinkdb.json)
+  * [glide](https://github.com/klaidliadon/scoop-buckets/blob/master/glide.json)
+
+
+
 [https://github.com/furyfire/my-bucket](https://github.com/furyfire/my-bucket)
   * [mosquitto](https://github.com/furyfire/my-bucket/blob/master/mosquitto.json)
 
@@ -1913,12 +1919,5 @@ A collection of awesome resource for the scoop package manager for windows
 
 [https://github.com/jixinlo/my-bucket](https://github.com/jixinlo/my-bucket)
   * [xunlei](https://github.com/jixinlo/my-bucket/blob/master/xunlei.json)
-
-
-
-[https://github.com/LindenXing/my-bucket](https://github.com/LindenXing/my-bucket)
-  * [potplayer](https://github.com/LindenXing/my-bucket/blob/master/potplayer.json)
-  * [mingw](https://github.com/LindenXing/my-bucket/blob/master/mingw.json)
-  * [naotu](https://github.com/LindenXing/my-bucket/blob/master/naotu.json)
 
 
