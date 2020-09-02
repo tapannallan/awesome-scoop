@@ -1926,4 +1926,6 @@ A collection of awesome resource for the scoop package manager for windows
   * [telegram-beta](https://github.com/ilhamepri/uni-verse/blob/master/telegram-beta.json)
   * [pigo](https://github.com/ilhamepri/uni-verse/blob/master/pigo.json)
 
+[https://github.com/pgollangi/scoop-bucket](https://github.com/pgollangi/scoop-bucket)
+  * [netselect](https://github.com/pgollangi/scoop-bucket/blob/master/netselect.json)
 
