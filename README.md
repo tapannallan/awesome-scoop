@@ -984,13 +984,13 @@ A collection of awesome resource for the scoop package manager for windows
 
 
 
-[https://github.com/secrethub/scoop-secrethub](https://github.com/secrethub/scoop-secrethub)
-  * [secrethub-cli](https://github.com/secrethub/scoop-secrethub/blob/master/secrethub-cli.json)
-
-
-
 [https://github.com/snyk/scoop-snyk](https://github.com/snyk/scoop-snyk)
   * [snyk](https://github.com/snyk/scoop-snyk/blob/master/snyk.json)
+
+
+
+[https://github.com/secrethub/scoop-secrethub](https://github.com/secrethub/scoop-secrethub)
+  * [secrethub-cli](https://github.com/secrethub/scoop-secrethub/blob/master/secrethub-cli.json)
 
 
 
@@ -1087,6 +1087,7 @@ A collection of awesome resource for the scoop package manager for windows
   * [zola](https://github.com/rivy/scoop.bucket.scoop-main/blob/master/zola.json)
   * [traefik](https://github.com/rivy/scoop.bucket.scoop-main/blob/master/traefik.json)
   * [datamash](https://github.com/rivy/scoop.bucket.scoop-main/blob/master/datamash.json)
+  * [ibmcloud-cli](https://github.com/rivy/scoop.bucket.scoop-main/blob/master/ibmcloud-cli.json)
   * [terragrunt](https://github.com/rivy/scoop.bucket.scoop-main/blob/master/terragrunt.json)
   * [legit](https://github.com/rivy/scoop.bucket.scoop-main/blob/master/legit.json)
   * [neko](https://github.com/rivy/scoop.bucket.scoop-main/blob/master/neko.json)
@@ -1227,6 +1228,7 @@ A collection of awesome resource for the scoop package manager for windows
   * [pcregrep](https://github.com/rivy/scoop.bucket.scoop-main/blob/master/pcregrep.json)
   * [protoc-gen-grpc-web](https://github.com/rivy/scoop.bucket.scoop-main/blob/master/protoc-gen-grpc-web.json)
   * [rethinkdb](https://github.com/rivy/scoop.bucket.scoop-main/blob/master/rethinkdb.json)
+  * [android-clt](https://github.com/rivy/scoop.bucket.scoop-main/blob/master/android-clt.json)
   * [gopass](https://github.com/rivy/scoop.bucket.scoop-main/blob/master/gopass.json)
   * [hollows-hunter](https://github.com/rivy/scoop.bucket.scoop-main/blob/master/hollows-hunter.json)
   * [monero-cli](https://github.com/rivy/scoop.bucket.scoop-main/blob/master/monero-cli.json)
@@ -1382,6 +1384,7 @@ A collection of awesome resource for the scoop package manager for windows
   * [pypy2](https://github.com/rivy/scoop.bucket.scoop-main/blob/master/pypy2.json)
   * [kotlin-native](https://github.com/rivy/scoop.bucket.scoop-main/blob/master/kotlin-native.json)
   * [git-crypt](https://github.com/rivy/scoop.bucket.scoop-main/blob/master/git-crypt.json)
+  * [ccache](https://github.com/rivy/scoop.bucket.scoop-main/blob/master/ccache.json)
   * [busybox](https://github.com/rivy/scoop.bucket.scoop-main/blob/master/busybox.json)
   * [rust-msvc](https://github.com/rivy/scoop.bucket.scoop-main/blob/master/rust-msvc.json)
   * [kaf](https://github.com/rivy/scoop.bucket.scoop-main/blob/master/kaf.json)
@@ -1513,6 +1516,7 @@ A collection of awesome resource for the scoop package manager for windows
   * [xz](https://github.com/rivy/scoop.bucket.scoop-main/blob/master/xz.json)
   * [tre-command](https://github.com/rivy/scoop.bucket.scoop-main/blob/master/tre-command.json)
   * [heroku-cli](https://github.com/rivy/scoop.bucket.scoop-main/blob/master/heroku-cli.json)
+  * [tinygo](https://github.com/rivy/scoop.bucket.scoop-main/blob/master/tinygo.json)
   * [boxes](https://github.com/rivy/scoop.bucket.scoop-main/blob/master/boxes.json)
   * [gpg](https://github.com/rivy/scoop.bucket.scoop-main/blob/master/gpg.json)
   * [unzip](https://github.com/rivy/scoop.bucket.scoop-main/blob/master/unzip.json)
@@ -1679,6 +1683,7 @@ A collection of awesome resource for the scoop package manager for windows
   * [armclient](https://github.com/rivy/scoop.bucket.scoop-main/blob/master/armclient.json)
   * [groovy](https://github.com/rivy/scoop.bucket.scoop-main/blob/master/groovy.json)
   * [maven](https://github.com/rivy/scoop.bucket.scoop-main/blob/master/maven.json)
+  * [kind](https://github.com/rivy/scoop.bucket.scoop-main/blob/master/kind.json)
   * [powerping](https://github.com/rivy/scoop.bucket.scoop-main/blob/master/powerping.json)
   * [ntop](https://github.com/rivy/scoop.bucket.scoop-main/blob/master/ntop.json)
   * [cmder](https://github.com/rivy/scoop.bucket.scoop-main/blob/master/cmder.json)
@@ -1794,6 +1799,11 @@ A collection of awesome resource for the scoop package manager for windows
 
 
 
+[https://github.com/podhmo/scoop-buckets](https://github.com/podhmo/scoop-buckets)
+  * [xkeymacs](https://github.com/podhmo/scoop-buckets/blob/master/xkeymacs.json)
+
+
+
 [https://github.com/comp500/scoop-comp500](https://github.com/comp500/scoop-comp500)
   * [titledumper](https://github.com/comp500/scoop-comp500/blob/master/titledumper.json)
   * [famitracker](https://github.com/comp500/scoop-comp500/blob/master/famitracker.json)
@@ -1802,11 +1812,6 @@ A collection of awesome resource for the scoop package manager for windows
   * [powdertoy](https://github.com/comp500/scoop-comp500/blob/master/powdertoy.json)
   * [cemuhook](https://github.com/comp500/scoop-comp500/blob/master/cemuhook.json)
   * [syncplay](https://github.com/comp500/scoop-comp500/blob/master/syncplay.json)
-
-
-
-[https://github.com/podhmo/scoop-buckets](https://github.com/podhmo/scoop-buckets)
-  * [xkeymacs](https://github.com/podhmo/scoop-buckets/blob/master/xkeymacs.json)
 
 
 
@@ -1828,16 +1833,6 @@ A collection of awesome resource for the scoop package manager for windows
 
 [https://github.com/bbond/scoop-bucket](https://github.com/bbond/scoop-bucket)
   * [dbeaver32](https://github.com/bbond/scoop-bucket/blob/master/dbeaver32.json)
-
-
-
-[https://github.com/simonwjackson/my-bucket](https://github.com/simonwjackson/my-bucket)
-  * [vivaldi](https://github.com/simonwjackson/my-bucket/blob/master/vivaldi.json)
-
-
-
-[https://github.com/go2sun/Scoop-bucket](https://github.com/go2sun/Scoop-bucket)
-  * [hello](https://github.com/go2sun/Scoop-bucket/blob/master/hello.json)
 
 
 
@@ -1915,5 +1910,12 @@ A collection of awesome resource for the scoop package manager for windows
 
 [https://github.com/jixinlo/my-bucket](https://github.com/jixinlo/my-bucket)
   * [xunlei](https://github.com/jixinlo/my-bucket/blob/master/xunlei.json)
+
+
+
+[https://github.com/LindenXing/my-bucket](https://github.com/LindenXing/my-bucket)
+  * [potplayer](https://github.com/LindenXing/my-bucket/blob/master/potplayer.json)
+  * [mingw](https://github.com/LindenXing/my-bucket/blob/master/mingw.json)
+  * [naotu](https://github.com/LindenXing/my-bucket/blob/master/naotu.json)
 
 
