@@ -208,6 +208,7 @@ A collection of awesome resource for the scoop package manager for windows
   * [minisqlquery](https://github.com/wangzq/scoop-bucket/blob/master/minisqlquery.json)
   * [GreenFishIconEditor](https://github.com/wangzq/scoop-bucket/blob/master/GreenFishIconEditor.json)
   * [bc4](https://github.com/wangzq/scoop-bucket/blob/master/bc4.json)
+  * [dia2dump](https://github.com/wangzq/scoop-bucket/blob/master/dia2dump.json)
   * [fsharp.core](https://github.com/wangzq/scoop-bucket/blob/master/fsharp.core.json)
   * [vim82](https://github.com/wangzq/scoop-bucket/blob/master/vim82.json)
   * [Rufus](https://github.com/wangzq/scoop-bucket/blob/master/Rufus.json)
@@ -756,6 +757,11 @@ A collection of awesome resource for the scoop package manager for windows
 
 
 
+[https://github.com/yuanying1199/scoopbucket](https://github.com/yuanying1199/scoopbucket)
+  * [schema](https://github.com/yuanying1199/scoopbucket/blob/master/schema.json)
+
+
+
 [https://github.com/tetradice/scoop-iyokan-jp](https://github.com/tetradice/scoop-iyokan-jp)
   * [mery](https://github.com/tetradice/scoop-iyokan-jp/blob/master/mery.json)
   * [tablacus-explorer](https://github.com/tetradice/scoop-iyokan-jp/blob/master/tablacus-explorer.json)
@@ -949,11 +955,6 @@ A collection of awesome resource for the scoop package manager for windows
 
 
 
-[https://github.com/yuanying1199/scoopbucket](https://github.com/yuanying1199/scoopbucket)
-  * [schema](https://github.com/yuanying1199/scoopbucket/blob/master/schema.json)
-
-
-
 [https://github.com/dooteeen/scoop-for-jp](https://github.com/dooteeen/scoop-for-jp)
   * [cica](https://github.com/dooteeen/scoop-for-jp/blob/master/cica.json)
   * [nkf](https://github.com/dooteeen/scoop-for-jp/blob/master/nkf.json)
@@ -964,6 +965,16 @@ A collection of awesome resource for the scoop package manager for windows
   * [source-han-code-jp](https://github.com/dooteeen/scoop-for-jp/blob/master/source-han-code-jp.json)
   * [myrica](https://github.com/dooteeen/scoop-for-jp/blob/master/myrica.json)
   * [vim-kaoriya](https://github.com/dooteeen/scoop-for-jp/blob/master/vim-kaoriya.json)
+
+
+
+[https://github.com/secrethub/scoop-secrethub](https://github.com/secrethub/scoop-secrethub)
+  * [secrethub-cli](https://github.com/secrethub/scoop-secrethub/blob/master/secrethub-cli.json)
+
+
+
+[https://github.com/snyk/scoop-snyk](https://github.com/snyk/scoop-snyk)
+  * [snyk](https://github.com/snyk/scoop-snyk/blob/master/snyk.json)
 
 
 
@@ -981,16 +992,6 @@ A collection of awesome resource for the scoop package manager for windows
   * [wlp7](https://github.com/se35710/scoop-ibm/blob/master/wlp7.json)
   * [wlp-javaeeclient](https://github.com/se35710/scoop-ibm/blob/master/wlp-javaeeclient.json)
   * [wlp-javaee](https://github.com/se35710/scoop-ibm/blob/master/wlp-javaee.json)
-
-
-
-[https://github.com/snyk/scoop-snyk](https://github.com/snyk/scoop-snyk)
-  * [snyk](https://github.com/snyk/scoop-snyk/blob/master/snyk.json)
-
-
-
-[https://github.com/secrethub/scoop-secrethub](https://github.com/secrethub/scoop-secrethub)
-  * [secrethub-cli](https://github.com/secrethub/scoop-secrethub/blob/master/secrethub-cli.json)
 
 
 
@@ -1799,11 +1800,6 @@ A collection of awesome resource for the scoop package manager for windows
 
 
 
-[https://github.com/podhmo/scoop-buckets](https://github.com/podhmo/scoop-buckets)
-  * [xkeymacs](https://github.com/podhmo/scoop-buckets/blob/master/xkeymacs.json)
-
-
-
 [https://github.com/comp500/scoop-comp500](https://github.com/comp500/scoop-comp500)
   * [titledumper](https://github.com/comp500/scoop-comp500/blob/master/titledumper.json)
   * [famitracker](https://github.com/comp500/scoop-comp500/blob/master/famitracker.json)
@@ -1812,6 +1808,11 @@ A collection of awesome resource for the scoop package manager for windows
   * [powdertoy](https://github.com/comp500/scoop-comp500/blob/master/powdertoy.json)
   * [cemuhook](https://github.com/comp500/scoop-comp500/blob/master/cemuhook.json)
   * [syncplay](https://github.com/comp500/scoop-comp500/blob/master/syncplay.json)
+
+
+
+[https://github.com/podhmo/scoop-buckets](https://github.com/podhmo/scoop-buckets)
+  * [xkeymacs](https://github.com/podhmo/scoop-buckets/blob/master/xkeymacs.json)
 
 
 
@@ -1828,6 +1829,21 @@ A collection of awesome resource for the scoop package manager for windows
 [https://github.com/goreleaser/scoop-bucket](https://github.com/goreleaser/scoop-bucket)
   * [goreleaser](https://github.com/goreleaser/scoop-bucket/blob/master/goreleaser.json)
   * [nfpm](https://github.com/goreleaser/scoop-bucket/blob/master/nfpm.json)
+
+
+
+[https://github.com/simonwjackson/my-bucket](https://github.com/simonwjackson/my-bucket)
+  * [vivaldi](https://github.com/simonwjackson/my-bucket/blob/master/vivaldi.json)
+
+
+
+[https://github.com/go2sun/Scoop-bucket](https://github.com/go2sun/Scoop-bucket)
+  * [hello](https://github.com/go2sun/Scoop-bucket/blob/master/hello.json)
+
+
+
+[https://github.com/devcsrj/scoop-bucket](https://github.com/devcsrj/scoop-bucket)
+  * [jarl](https://github.com/devcsrj/scoop-bucket/blob/master/jarl.json)
 
 
 
@@ -1898,24 +1914,7 @@ A collection of awesome resource for the scoop package manager for windows
 
 
 
-[https://github.com/devcsrj/scoop-bucket](https://github.com/devcsrj/scoop-bucket)
-  * [jarl](https://github.com/devcsrj/scoop-bucket/blob/master/jarl.json)
-
-
-
 [https://github.com/furyfire/my-bucket](https://github.com/furyfire/my-bucket)
   * [mosquitto](https://github.com/furyfire/my-bucket/blob/master/mosquitto.json)
-
-
-
-[https://github.com/jixinlo/my-bucket](https://github.com/jixinlo/my-bucket)
-  * [xunlei](https://github.com/jixinlo/my-bucket/blob/master/xunlei.json)
-
-
-
-[https://github.com/LindenXing/my-bucket](https://github.com/LindenXing/my-bucket)
-  * [potplayer](https://github.com/LindenXing/my-bucket/blob/master/potplayer.json)
-  * [mingw](https://github.com/LindenXing/my-bucket/blob/master/mingw.json)
-  * [naotu](https://github.com/LindenXing/my-bucket/blob/master/naotu.json)
 
 
