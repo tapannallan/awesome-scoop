@@ -204,6 +204,7 @@ A collection of awesome resource for the scoop package manager for windows
   * [apiport](https://github.com/wangzq/scoop-bucket/blob/master/apiport.json)
   * [vimahk](https://github.com/wangzq/scoop-bucket/blob/master/vimahk.json)
   * [lister](https://github.com/wangzq/scoop-bucket/blob/master/lister.json)
+  * [pdbdump](https://github.com/wangzq/scoop-bucket/blob/master/pdbdump.json)
   * [logparserstudio](https://github.com/wangzq/scoop-bucket/blob/master/logparserstudio.json)
   * [pdb2xml](https://github.com/wangzq/scoop-bucket/blob/master/pdb2xml.json)
   * [linqpad6](https://github.com/wangzq/scoop-bucket/blob/master/linqpad6.json)
@@ -1210,7 +1211,6 @@ A collection of awesome resource for the scoop package manager for windows
   * [plex-server](https://github.com/rivy/scoop.bucket.scoop-main/blob/master/plex-server.json)
   * [fake](https://github.com/rivy/scoop.bucket.scoop-main/blob/master/fake.json)
   * [annie](https://github.com/rivy/scoop.bucket.scoop-main/blob/master/annie.json)
-  * [apex](https://github.com/rivy/scoop.bucket.scoop-main/blob/master/apex.json)
   * [halo](https://github.com/rivy/scoop.bucket.scoop-main/blob/master/halo.json)
   * [which](https://github.com/rivy/scoop.bucket.scoop-main/blob/master/which.json)
   * [shim](https://github.com/rivy/scoop.bucket.scoop-main/blob/master/shim.json)
@@ -1737,8 +1737,8 @@ A collection of awesome resource for the scoop package manager for windows
   * [nomad](https://github.com/rivy/scoop.bucket.scoop-main/blob/master/nomad.json)
   * [links](https://github.com/rivy/scoop.bucket.scoop-main/blob/master/links.json)
   * [stdiscosrv](https://github.com/rivy/scoop.bucket.scoop-main/blob/master/stdiscosrv.json)
-  * [procyon](https://github.com/rivy/scoop.bucket.scoop-main/blob/master/procyon.json)
   * [puppet-bolt](https://github.com/rivy/scoop.bucket.scoop-main/blob/master/puppet-bolt.json)
+  * [csview](https://github.com/rivy/scoop.bucket.scoop-main/blob/master/csview.json)
   * [ziglang](https://github.com/rivy/scoop.bucket.scoop-main/blob/master/ziglang.json)
   * [hashcat](https://github.com/rivy/scoop.bucket.scoop-main/blob/master/hashcat.json)
   * [mingit-busybox](https://github.com/rivy/scoop.bucket.scoop-main/blob/master/mingit-busybox.json)
@@ -1763,6 +1763,7 @@ A collection of awesome resource for the scoop package manager for windows
   * [helm](https://github.com/rivy/scoop.bucket.scoop-main/blob/master/helm.json)
   * [force](https://github.com/rivy/scoop.bucket.scoop-main/blob/master/force.json)
   * [bitwarden-cli](https://github.com/rivy/scoop.bucket.scoop-main/blob/master/bitwarden-cli.json)
+  * [sd](https://github.com/rivy/scoop.bucket.scoop-main/blob/master/sd.json)
   * [stoplight-prism](https://github.com/rivy/scoop.bucket.scoop-main/blob/master/stoplight-prism.json)
   * [neovim](https://github.com/rivy/scoop.bucket.scoop-main/blob/master/neovim.json)
   * [handbrake-cli](https://github.com/rivy/scoop.bucket.scoop-main/blob/master/handbrake-cli.json)
@@ -1854,6 +1855,16 @@ A collection of awesome resource for the scoop package manager for windows
 
 
 
+[https://github.com/gexclaude/scoop-bucket](https://github.com/gexclaude/scoop-bucket)
+  * [aareguru](https://github.com/gexclaude/scoop-bucket/blob/master/aareguru.json)
+
+
+
+[https://github.com/gaojr/MyScoopBucket](https://github.com/gaojr/MyScoopBucket)
+  * [package](https://github.com/gaojr/MyScoopBucket/blob/master/package.json)
+
+
+
 [https://github.com/devcsrj/scoop-bucket](https://github.com/devcsrj/scoop-bucket)
   * [jarl](https://github.com/devcsrj/scoop-bucket/blob/master/jarl.json)
 
@@ -1876,22 +1887,5 @@ A collection of awesome resource for the scoop package manager for windows
 
 [https://github.com/jixinlo/my-bucket](https://github.com/jixinlo/my-bucket)
   * [xunlei](https://github.com/jixinlo/my-bucket/blob/master/xunlei.json)
-
-
-
-[https://github.com/LindenXing/my-bucket](https://github.com/LindenXing/my-bucket)
-  * [potplayer](https://github.com/LindenXing/my-bucket/blob/master/potplayer.json)
-  * [mingw](https://github.com/LindenXing/my-bucket/blob/master/mingw.json)
-  * [naotu](https://github.com/LindenXing/my-bucket/blob/master/naotu.json)
-
-
-
-[https://github.com/gexclaude/scoop-bucket](https://github.com/gexclaude/scoop-bucket)
-  * [aareguru](https://github.com/gexclaude/scoop-bucket/blob/master/aareguru.json)
-
-
-
-[https://github.com/gaojr/MyScoopBucket](https://github.com/gaojr/MyScoopBucket)
-  * [package](https://github.com/gaojr/MyScoopBucket/blob/master/package.json)
 
 
