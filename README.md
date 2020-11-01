@@ -16,85 +16,6 @@ A collection of awesome resource for the scoop package manager for windows
 
 
 
-[https://github.com/rasa/scoops](https://github.com/rasa/scoops)
-  * [hhreg](https://github.com/rasa/scoops/blob/master/hhreg.json)
-  * [ffb](https://github.com/rasa/scoops/blob/master/ffb.json)
-  * [rehash](https://github.com/rasa/scoops/blob/master/rehash.json)
-  * [py](https://github.com/rasa/scoops/blob/master/py.json)
-  * [vlc-bluray-plugin](https://github.com/rasa/scoops/blob/master/vlc-bluray-plugin.json)
-  * [gsmartcontrol](https://github.com/rasa/scoops/blob/master/gsmartcontrol.json)
-  * [wizmo](https://github.com/rasa/scoops/blob/master/wizmo.json)
-  * [ztree](https://github.com/rasa/scoops/blob/master/ztree.json)
-  * [babelpad](https://github.com/rasa/scoops/blob/master/babelpad.json)
-  * [simple-dnscrypt](https://github.com/rasa/scoops/blob/master/simple-dnscrypt.json)
-  * [dnsbench](https://github.com/rasa/scoops/blob/master/dnsbench.json)
-  * [attr](https://github.com/rasa/scoops/blob/master/attr.json)
-  * [api-monitor](https://github.com/rasa/scoops/blob/master/api-monitor.json)
-  * [eolfix](https://github.com/rasa/scoops/blob/master/eolfix.json)
-  * [listusbdrives](https://github.com/rasa/scoops/blob/master/listusbdrives.json)
-  * [openssh-win32](https://github.com/rasa/scoops/blob/master/openssh-win32.json)
-  * [mvmc](https://github.com/rasa/scoops/blob/master/mvmc.json)
-  * [regdelta](https://github.com/rasa/scoops/blob/master/regdelta.json)
-  * [git-plus](https://github.com/rasa/scoops/blob/master/git-plus.json)
-  * [exetype](https://github.com/rasa/scoops/blob/master/exetype.json)
-  * [usbtreeview](https://github.com/rasa/scoops/blob/master/usbtreeview.json)
-  * [htmlhelp](https://github.com/rasa/scoops/blob/master/htmlhelp.json)
-  * [res-set](https://github.com/rasa/scoops/blob/master/res-set.json)
-  * [poweroff](https://github.com/rasa/scoops/blob/master/poweroff.json)
-  * [policy-analyzer](https://github.com/rasa/scoops/blob/master/policy-analyzer.json)
-  * [cpdf](https://github.com/rasa/scoops/blob/master/cpdf.json)
-  * [git-with-openssh](https://github.com/rasa/scoops/blob/master/git-with-openssh.json)
-  * [deletedosdevice](https://github.com/rasa/scoops/blob/master/deletedosdevice.json)
-  * [diskspd](https://github.com/rasa/scoops/blob/master/diskspd.json)
-  * [time-it](https://github.com/rasa/scoops/blob/master/time-it.json)
-  * [listdosdevices](https://github.com/rasa/scoops/blob/master/listdosdevices.json)
-  * [dskwipe](https://github.com/rasa/scoops/blob/master/dskwipe.json)
-  * [removedrive](https://github.com/rasa/scoops/blob/master/removedrive.json)
-  * [lgpo](https://github.com/rasa/scoops/blob/master/lgpo.json)
-  * [noto-fonts](https://github.com/rasa/scoops/blob/master/noto-fonts.json)
-  * [path-set](https://github.com/rasa/scoops/blob/master/path-set.json)
-  * [schema](https://github.com/rasa/scoops/blob/master/schema.json)
-  * [ejecttcv](https://github.com/rasa/scoops/blob/master/ejecttcv.json)
-  * [audacity-lame-plugin](https://github.com/rasa/scoops/blob/master/audacity-lame-plugin.json)
-  * [ztree-zeta](https://github.com/rasa/scoops/blob/master/ztree-zeta.json)
-  * [hash-explorer](https://github.com/rasa/scoops/blob/master/hash-explorer.json)
-  * [noto-serif-font](https://github.com/rasa/scoops/blob/master/noto-serif-font.json)
-  * [diffpdf](https://github.com/rasa/scoops/blob/master/diffpdf.json)
-  * [tmac](https://github.com/rasa/scoops/blob/master/tmac.json)
-  * [usbdeview-ids](https://github.com/rasa/scoops/blob/master/usbdeview-ids.json)
-  * [ntttcp](https://github.com/rasa/scoops/blob/master/ntttcp.json)
-  * [winrar](https://github.com/rasa/scoops/blob/master/winrar.json)
-  * [fat32format-gui](https://github.com/rasa/scoops/blob/master/fat32format-gui.json)
-  * [noto-mono-font](https://github.com/rasa/scoops/blob/master/noto-mono-font.json)
-  * [getjpegs](https://github.com/rasa/scoops/blob/master/getjpegs.json)
-  * [remount](https://github.com/rasa/scoops/blob/master/remount.json)
-  * [ejectmedia](https://github.com/rasa/scoops/blob/master/ejectmedia.json)
-  * [emet](https://github.com/rasa/scoops/blob/master/emet.json)
-  * [ltrdata](https://github.com/rasa/scoops/blob/master/ltrdata.json)
-  * [noto-sans-font](https://github.com/rasa/scoops/blob/master/noto-sans-font.json)
-  * [seterlvl](https://github.com/rasa/scoops/blob/master/seterlvl.json)
-  * [fat32format](https://github.com/rasa/scoops/blob/master/fat32format.json)
-  * [inirw](https://github.com/rasa/scoops/blob/master/inirw.json)
-  * [gifsicle](https://github.com/rasa/scoops/blob/master/gifsicle.json)
-  * [audacity-ffmpeg-plugin](https://github.com/rasa/scoops/blob/master/audacity-ffmpeg-plugin.json)
-  * [mklnk](https://github.com/rasa/scoops/blob/master/mklnk.json)
-  * [restartsrdev](https://github.com/rasa/scoops/blob/master/restartsrdev.json)
-  * [rescandevices](https://github.com/rasa/scoops/blob/master/rescandevices.json)
-  * [outwit](https://github.com/rasa/scoops/blob/master/outwit.json)
-  * [feedster](https://github.com/rasa/scoops/blob/master/feedster.json)
-  * [isobuster](https://github.com/rasa/scoops/blob/master/isobuster.json)
-  * [wfc](https://github.com/rasa/scoops/blob/master/wfc.json)
-  * [drivecleanup](https://github.com/rasa/scoops/blob/master/drivecleanup.json)
-  * [lsdsk](https://github.com/rasa/scoops/blob/master/lsdsk.json)
-  * [kpcli](https://github.com/rasa/scoops/blob/master/kpcli.json)
-  * [ztree-beta](https://github.com/rasa/scoops/blob/master/ztree-beta.json)
-  * [mtee](https://github.com/rasa/scoops/blob/master/mtee.json)
-  * [loadmedia](https://github.com/rasa/scoops/blob/master/loadmedia.json)
-  * [id3mtag](https://github.com/rasa/scoops/blob/master/id3mtag.json)
-  * [vlc-installer](https://github.com/rasa/scoops/blob/master/vlc-installer.json)
-
-
-
 [https://github.com/kidonng/sushi](https://github.com/kidonng/sushi)
   * [.prettierrc](https://github.com/kidonng/sushi/blob/master/.prettierrc.json)
   * [vercel](https://github.com/kidonng/sushi/blob/master/vercel.json)
@@ -161,6 +82,7 @@ A collection of awesome resource for the scoop package manager for windows
   * [winscp](https://github.com/wangzq/scoop-bucket/blob/master/winscp.json)
   * [linkd](https://github.com/wangzq/scoop-bucket/blob/master/linkd.json)
   * [yumi](https://github.com/wangzq/scoop-bucket/blob/master/yumi.json)
+  * [physdiskwrite](https://github.com/wangzq/scoop-bucket/blob/master/physdiskwrite.json)
   * [ilmerge](https://github.com/wangzq/scoop-bucket/blob/master/ilmerge.json)
   * [rawcap](https://github.com/wangzq/scoop-bucket/blob/master/rawcap.json)
   * [MsbuildLog](https://github.com/wangzq/scoop-bucket/blob/master/MsbuildLog.json)
@@ -703,6 +625,32 @@ A collection of awesome resource for the scoop package manager for windows
 
 
 
+[https://github.com/tetradice/scoop-iyokan-jp](https://github.com/tetradice/scoop-iyokan-jp)
+  * [mery](https://github.com/tetradice/scoop-iyokan-jp/blob/master/mery.json)
+  * [tablacus-explorer](https://github.com/tetradice/scoop-iyokan-jp/blob/master/tablacus-explorer.json)
+  * [crystaldiskinfo](https://github.com/tetradice/scoop-iyokan-jp/blob/master/crystaldiskinfo.json)
+  * [bluewind](https://github.com/tetradice/scoop-iyokan-jp/blob/master/bluewind.json)
+  * [bluewind170b](https://github.com/tetradice/scoop-iyokan-jp/blob/master/bluewind170b.json)
+  * [nyagos](https://github.com/tetradice/scoop-iyokan-jp/blob/master/nyagos.json)
+  * [rdiff-backup](https://github.com/tetradice/scoop-iyokan-jp/blob/master/rdiff-backup.json)
+  * [putty-ranvis](https://github.com/tetradice/scoop-iyokan-jp/blob/master/putty-ranvis.json)
+  * [massigra](https://github.com/tetradice/scoop-iyokan-jp/blob/master/massigra.json)
+  * [ssp](https://github.com/tetradice/scoop-iyokan-jp/blob/master/ssp.json)
+  * [crystaldiskmark-shizuku](https://github.com/tetradice/scoop-iyokan-jp/blob/master/crystaldiskmark-shizuku.json)
+  * [crystaldiskinfo-shizuku](https://github.com/tetradice/scoop-iyokan-jp/blob/master/crystaldiskinfo-shizuku.json)
+  * [crystaldiskinfo-kureikei](https://github.com/tetradice/scoop-iyokan-jp/blob/master/crystaldiskinfo-kureikei.json)
+  * [mery-beta](https://github.com/tetradice/scoop-iyokan-jp/blob/master/mery-beta.json)
+  * [winmerge-jp](https://github.com/tetradice/scoop-iyokan-jp/blob/master/winmerge-jp.json)
+  * [opera](https://github.com/tetradice/scoop-iyokan-jp/blob/master/opera.json)
+  * [exuberantctags-jp](https://github.com/tetradice/scoop-iyokan-jp/blob/master/exuberantctags-jp.json)
+  * [crystaldiskmark](https://github.com/tetradice/scoop-iyokan-jp/blob/master/crystaldiskmark.json)
+  * [sakura-editor](https://github.com/tetradice/scoop-iyokan-jp/blob/master/sakura-editor.json)
+  * [inazumasearch](https://github.com/tetradice/scoop-iyokan-jp/blob/master/inazumasearch.json)
+  * [ckw](https://github.com/tetradice/scoop-iyokan-jp/blob/master/ckw.json)
+  * [nyaos3](https://github.com/tetradice/scoop-iyokan-jp/blob/master/nyaos3.json)
+
+
+
 [https://github.com/nueko/php-ext-bucket](https://github.com/nueko/php-ext-bucket)
   * [php71-phalcon](https://github.com/nueko/php-ext-bucket/blob/master/php71-phalcon.json)
   * [php71-timezonedb](https://github.com/nueko/php-ext-bucket/blob/master/php71-timezonedb.json)
@@ -766,39 +714,13 @@ A collection of awesome resource for the scoop package manager for windows
 
 
 
-[https://github.com/tetradice/scoop-iyokan-jp](https://github.com/tetradice/scoop-iyokan-jp)
-  * [mery](https://github.com/tetradice/scoop-iyokan-jp/blob/master/mery.json)
-  * [tablacus-explorer](https://github.com/tetradice/scoop-iyokan-jp/blob/master/tablacus-explorer.json)
-  * [crystaldiskinfo](https://github.com/tetradice/scoop-iyokan-jp/blob/master/crystaldiskinfo.json)
-  * [bluewind](https://github.com/tetradice/scoop-iyokan-jp/blob/master/bluewind.json)
-  * [bluewind170b](https://github.com/tetradice/scoop-iyokan-jp/blob/master/bluewind170b.json)
-  * [nyagos](https://github.com/tetradice/scoop-iyokan-jp/blob/master/nyagos.json)
-  * [rdiff-backup](https://github.com/tetradice/scoop-iyokan-jp/blob/master/rdiff-backup.json)
-  * [putty-ranvis](https://github.com/tetradice/scoop-iyokan-jp/blob/master/putty-ranvis.json)
-  * [massigra](https://github.com/tetradice/scoop-iyokan-jp/blob/master/massigra.json)
-  * [ssp](https://github.com/tetradice/scoop-iyokan-jp/blob/master/ssp.json)
-  * [crystaldiskmark-shizuku](https://github.com/tetradice/scoop-iyokan-jp/blob/master/crystaldiskmark-shizuku.json)
-  * [crystaldiskinfo-shizuku](https://github.com/tetradice/scoop-iyokan-jp/blob/master/crystaldiskinfo-shizuku.json)
-  * [crystaldiskinfo-kureikei](https://github.com/tetradice/scoop-iyokan-jp/blob/master/crystaldiskinfo-kureikei.json)
-  * [mery-beta](https://github.com/tetradice/scoop-iyokan-jp/blob/master/mery-beta.json)
-  * [winmerge-jp](https://github.com/tetradice/scoop-iyokan-jp/blob/master/winmerge-jp.json)
-  * [opera](https://github.com/tetradice/scoop-iyokan-jp/blob/master/opera.json)
-  * [exuberantctags-jp](https://github.com/tetradice/scoop-iyokan-jp/blob/master/exuberantctags-jp.json)
-  * [crystaldiskmark](https://github.com/tetradice/scoop-iyokan-jp/blob/master/crystaldiskmark.json)
-  * [sakura-editor](https://github.com/tetradice/scoop-iyokan-jp/blob/master/sakura-editor.json)
-  * [inazumasearch](https://github.com/tetradice/scoop-iyokan-jp/blob/master/inazumasearch.json)
-  * [ckw](https://github.com/tetradice/scoop-iyokan-jp/blob/master/ckw.json)
-  * [nyaos3](https://github.com/tetradice/scoop-iyokan-jp/blob/master/nyaos3.json)
+[https://github.com/integzz/scoopet](https://github.com/integzz/scoopet)
+  * [package](https://github.com/integzz/scoopet/blob/master/package.json)
 
 
 
 [https://github.com/Rigellute/scoop-bucket](https://github.com/Rigellute/scoop-bucket)
   * [spotify-tui](https://github.com/Rigellute/scoop-bucket/blob/master/spotify-tui.json)
-
-
-
-[https://github.com/integzz/scoopet](https://github.com/integzz/scoopet)
-  * [package](https://github.com/integzz/scoopet/blob/master/package.json)
 
 
 
@@ -1831,13 +1753,13 @@ A collection of awesome resource for the scoop package manager for windows
 
 
 
+[https://github.com/butteria/scoop](https://github.com/butteria/scoop)
+  * [hello](https://github.com/butteria/scoop/blob/master/hello.json)
+
+
+
 [https://github.com/replit/scoop-bucket](https://github.com/replit/scoop-bucket)
   * [upm](https://github.com/replit/scoop-bucket/blob/master/upm.json)
-
-
-
-[https://github.com/podhmo/scoop-buckets](https://github.com/podhmo/scoop-buckets)
-  * [xkeymacs](https://github.com/podhmo/scoop-buckets/blob/master/xkeymacs.json)
 
 
 
@@ -1849,6 +1771,11 @@ A collection of awesome resource for the scoop package manager for windows
   * [powdertoy](https://github.com/comp500/scoop-comp500/blob/master/powdertoy.json)
   * [cemuhook](https://github.com/comp500/scoop-comp500/blob/master/cemuhook.json)
   * [syncplay](https://github.com/comp500/scoop-comp500/blob/master/syncplay.json)
+
+
+
+[https://github.com/podhmo/scoop-buckets](https://github.com/podhmo/scoop-buckets)
+  * [xkeymacs](https://github.com/podhmo/scoop-buckets/blob/master/xkeymacs.json)
 
 
 
@@ -1888,12 +1815,7 @@ A collection of awesome resource for the scoop package manager for windows
 
 
 
-[https://github.com/cryptogrampus/cuztum-bucket](https://github.com/cryptogrampus/cuztum-bucket)
-  * [vscode-insiders](https://github.com/cryptogrampus/cuztum-bucket/blob/master/vscode-insiders.json)
-
-
-
-[https://github.com/mine211/my-bucket](https://github.com/mine211/my-bucket)
-  * [kdenlive](https://github.com/mine211/my-bucket/blob/master/kdenlive.json)
+[https://github.com/furyfire/my-bucket](https://github.com/furyfire/my-bucket)
+  * [mosquitto](https://github.com/furyfire/my-bucket/blob/master/mosquitto.json)
 
 
