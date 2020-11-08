@@ -755,6 +755,12 @@ A collection of awesome resource for the scoop package manager for windows
 
 
 
+[https://github.com/NSIS-Dev/scoop-nsis](https://github.com/NSIS-Dev/scoop-nsis)
+  * [package-lock](https://github.com/NSIS-Dev/scoop-nsis/blob/master/package-lock.json)
+  * [package](https://github.com/NSIS-Dev/scoop-nsis/blob/master/package.json)
+
+
+
 [https://github.com/AStupidBear/scoop-bear](https://github.com/AStupidBear/scoop-bear)
   * [wgestures](https://github.com/AStupidBear/scoop-bear/blob/master/wgestures.json)
   * [anaconda3](https://github.com/AStupidBear/scoop-bear/blob/master/anaconda3.json)
@@ -814,12 +820,6 @@ A collection of awesome resource for the scoop package manager for windows
   * [llvm](https://github.com/AStupidBear/scoop-bear/blob/master/llvm.json)
   * [regextester](https://github.com/AStupidBear/scoop-bear/blob/master/regextester.json)
   * [woodpecker](https://github.com/AStupidBear/scoop-bear/blob/master/woodpecker.json)
-
-
-
-[https://github.com/NSIS-Dev/scoop-nsis](https://github.com/NSIS-Dev/scoop-nsis)
-  * [package-lock](https://github.com/NSIS-Dev/scoop-nsis/blob/master/package-lock.json)
-  * [package](https://github.com/NSIS-Dev/scoop-nsis/blob/master/package.json)
 
 
 
@@ -918,11 +918,6 @@ A collection of awesome resource for the scoop package manager for windows
 
 [https://github.com/secrethub/scoop-secrethub](https://github.com/secrethub/scoop-secrethub)
   * [secrethub-cli](https://github.com/secrethub/scoop-secrethub/blob/master/secrethub-cli.json)
-
-
-
-[https://github.com/snyk/scoop-snyk](https://github.com/snyk/scoop-snyk)
-  * [snyk](https://github.com/snyk/scoop-snyk/blob/master/snyk.json)
 
 
 
@@ -1249,6 +1244,7 @@ A collection of awesome resource for the scoop package manager for windows
   * [mro](https://github.com/rivy/scoop.bucket.scoop-main/blob/master/mro.json)
   * [gnirehtet](https://github.com/rivy/scoop.bucket.scoop-main/blob/master/gnirehtet.json)
   * [prm](https://github.com/rivy/scoop.bucket.scoop-main/blob/master/prm.json)
+  * [yosys](https://github.com/rivy/scoop.bucket.scoop-main/blob/master/yosys.json)
   * [tunnel](https://github.com/rivy/scoop.bucket.scoop-main/blob/master/tunnel.json)
   * [stack](https://github.com/rivy/scoop.bucket.scoop-main/blob/master/stack.json)
   * [glslang-nightly](https://github.com/rivy/scoop.bucket.scoop-main/blob/master/glslang-nightly.json)
@@ -1763,14 +1759,8 @@ A collection of awesome resource for the scoop package manager for windows
 
 
 
-[https://github.com/comp500/scoop-comp500](https://github.com/comp500/scoop-comp500)
-  * [titledumper](https://github.com/comp500/scoop-comp500/blob/master/titledumper.json)
-  * [famitracker](https://github.com/comp500/scoop-comp500/blob/master/famitracker.json)
-  * [cemu](https://github.com/comp500/scoop-comp500/blob/master/cemu.json)
-  * [cemu-shortcut](https://github.com/comp500/scoop-comp500/blob/master/cemu-shortcut.json)
-  * [powdertoy](https://github.com/comp500/scoop-comp500/blob/master/powdertoy.json)
-  * [cemuhook](https://github.com/comp500/scoop-comp500/blob/master/cemuhook.json)
-  * [syncplay](https://github.com/comp500/scoop-comp500/blob/master/syncplay.json)
+[https://github.com/willvsmvp/scoop-buckets](https://github.com/willvsmvp/scoop-buckets)
+  * [demo](https://github.com/willvsmvp/scoop-buckets/blob/master/demo.json)
 
 
 
@@ -1779,8 +1769,14 @@ A collection of awesome resource for the scoop package manager for windows
 
 
 
-[https://github.com/willvsmvp/scoop-buckets](https://github.com/willvsmvp/scoop-buckets)
-  * [demo](https://github.com/willvsmvp/scoop-buckets/blob/master/demo.json)
+[https://github.com/comp500/scoop-comp500](https://github.com/comp500/scoop-comp500)
+  * [titledumper](https://github.com/comp500/scoop-comp500/blob/master/titledumper.json)
+  * [famitracker](https://github.com/comp500/scoop-comp500/blob/master/famitracker.json)
+  * [cemu](https://github.com/comp500/scoop-comp500/blob/master/cemu.json)
+  * [cemu-shortcut](https://github.com/comp500/scoop-comp500/blob/master/cemu-shortcut.json)
+  * [powdertoy](https://github.com/comp500/scoop-comp500/blob/master/powdertoy.json)
+  * [cemuhook](https://github.com/comp500/scoop-comp500/blob/master/cemuhook.json)
+  * [syncplay](https://github.com/comp500/scoop-comp500/blob/master/syncplay.json)
 
 
 
@@ -1810,12 +1806,19 @@ A collection of awesome resource for the scoop package manager for windows
 
 
 
-[https://github.com/devcsrj/scoop-bucket](https://github.com/devcsrj/scoop-bucket)
-  * [jarl](https://github.com/devcsrj/scoop-bucket/blob/master/jarl.json)
-
-
-
 [https://github.com/furyfire/my-bucket](https://github.com/furyfire/my-bucket)
   * [mosquitto](https://github.com/furyfire/my-bucket/blob/master/mosquitto.json)
+
+
+
+[https://github.com/jixinlo/my-bucket](https://github.com/jixinlo/my-bucket)
+  * [xunlei](https://github.com/jixinlo/my-bucket/blob/master/xunlei.json)
+
+
+
+[https://github.com/LindenXing/my-bucket](https://github.com/LindenXing/my-bucket)
+  * [potplayer](https://github.com/LindenXing/my-bucket/blob/master/potplayer.json)
+  * [mingw](https://github.com/LindenXing/my-bucket/blob/master/mingw.json)
+  * [naotu](https://github.com/LindenXing/my-bucket/blob/master/naotu.json)
 
 
