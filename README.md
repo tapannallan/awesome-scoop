@@ -11,11 +11,6 @@ A collection of awesome resource for the scoop package manager for windows
 
 
 
-[https://github.com/ScoopInstaller/Versions](https://github.com/ScoopInstaller/Versions)
-  * [imagemagick-ffmpeg](https://github.com/ScoopInstaller/Versions/blob/master/imagemagick-ffmpeg.json)
-
-
-
 [https://github.com/kidonng/sushi](https://github.com/kidonng/sushi)
   * [.prettierrc](https://github.com/kidonng/sushi/blob/master/.prettierrc.json)
   * [vercel](https://github.com/kidonng/sushi/blob/master/vercel.json)
@@ -625,6 +620,32 @@ A collection of awesome resource for the scoop package manager for windows
 
 
 
+[https://github.com/tetradice/scoop-iyokan-jp](https://github.com/tetradice/scoop-iyokan-jp)
+  * [mery](https://github.com/tetradice/scoop-iyokan-jp/blob/master/mery.json)
+  * [tablacus-explorer](https://github.com/tetradice/scoop-iyokan-jp/blob/master/tablacus-explorer.json)
+  * [crystaldiskinfo](https://github.com/tetradice/scoop-iyokan-jp/blob/master/crystaldiskinfo.json)
+  * [bluewind](https://github.com/tetradice/scoop-iyokan-jp/blob/master/bluewind.json)
+  * [bluewind170b](https://github.com/tetradice/scoop-iyokan-jp/blob/master/bluewind170b.json)
+  * [nyagos](https://github.com/tetradice/scoop-iyokan-jp/blob/master/nyagos.json)
+  * [rdiff-backup](https://github.com/tetradice/scoop-iyokan-jp/blob/master/rdiff-backup.json)
+  * [putty-ranvis](https://github.com/tetradice/scoop-iyokan-jp/blob/master/putty-ranvis.json)
+  * [massigra](https://github.com/tetradice/scoop-iyokan-jp/blob/master/massigra.json)
+  * [ssp](https://github.com/tetradice/scoop-iyokan-jp/blob/master/ssp.json)
+  * [crystaldiskmark-shizuku](https://github.com/tetradice/scoop-iyokan-jp/blob/master/crystaldiskmark-shizuku.json)
+  * [crystaldiskinfo-shizuku](https://github.com/tetradice/scoop-iyokan-jp/blob/master/crystaldiskinfo-shizuku.json)
+  * [crystaldiskinfo-kureikei](https://github.com/tetradice/scoop-iyokan-jp/blob/master/crystaldiskinfo-kureikei.json)
+  * [mery-beta](https://github.com/tetradice/scoop-iyokan-jp/blob/master/mery-beta.json)
+  * [winmerge-jp](https://github.com/tetradice/scoop-iyokan-jp/blob/master/winmerge-jp.json)
+  * [opera](https://github.com/tetradice/scoop-iyokan-jp/blob/master/opera.json)
+  * [exuberantctags-jp](https://github.com/tetradice/scoop-iyokan-jp/blob/master/exuberantctags-jp.json)
+  * [crystaldiskmark](https://github.com/tetradice/scoop-iyokan-jp/blob/master/crystaldiskmark.json)
+  * [sakura-editor](https://github.com/tetradice/scoop-iyokan-jp/blob/master/sakura-editor.json)
+  * [inazumasearch](https://github.com/tetradice/scoop-iyokan-jp/blob/master/inazumasearch.json)
+  * [ckw](https://github.com/tetradice/scoop-iyokan-jp/blob/master/ckw.json)
+  * [nyaos3](https://github.com/tetradice/scoop-iyokan-jp/blob/master/nyaos3.json)
+
+
+
 [https://github.com/nueko/php-ext-bucket](https://github.com/nueko/php-ext-bucket)
   * [php71-phalcon](https://github.com/nueko/php-ext-bucket/blob/master/php71-phalcon.json)
   * [php71-timezonedb](https://github.com/nueko/php-ext-bucket/blob/master/php71-timezonedb.json)
@@ -680,32 +701,6 @@ A collection of awesome resource for the scoop package manager for windows
   * [php71-yac](https://github.com/nueko/php-ext-bucket/blob/master/php71-yac.json)
   * [php71-lua](https://github.com/nueko/php-ext-bucket/blob/master/php71-lua.json)
   * [php71-rrd](https://github.com/nueko/php-ext-bucket/blob/master/php71-rrd.json)
-
-
-
-[https://github.com/tetradice/scoop-iyokan-jp](https://github.com/tetradice/scoop-iyokan-jp)
-  * [mery](https://github.com/tetradice/scoop-iyokan-jp/blob/master/mery.json)
-  * [tablacus-explorer](https://github.com/tetradice/scoop-iyokan-jp/blob/master/tablacus-explorer.json)
-  * [crystaldiskinfo](https://github.com/tetradice/scoop-iyokan-jp/blob/master/crystaldiskinfo.json)
-  * [bluewind](https://github.com/tetradice/scoop-iyokan-jp/blob/master/bluewind.json)
-  * [bluewind170b](https://github.com/tetradice/scoop-iyokan-jp/blob/master/bluewind170b.json)
-  * [nyagos](https://github.com/tetradice/scoop-iyokan-jp/blob/master/nyagos.json)
-  * [rdiff-backup](https://github.com/tetradice/scoop-iyokan-jp/blob/master/rdiff-backup.json)
-  * [putty-ranvis](https://github.com/tetradice/scoop-iyokan-jp/blob/master/putty-ranvis.json)
-  * [massigra](https://github.com/tetradice/scoop-iyokan-jp/blob/master/massigra.json)
-  * [ssp](https://github.com/tetradice/scoop-iyokan-jp/blob/master/ssp.json)
-  * [crystaldiskmark-shizuku](https://github.com/tetradice/scoop-iyokan-jp/blob/master/crystaldiskmark-shizuku.json)
-  * [crystaldiskinfo-shizuku](https://github.com/tetradice/scoop-iyokan-jp/blob/master/crystaldiskinfo-shizuku.json)
-  * [crystaldiskinfo-kureikei](https://github.com/tetradice/scoop-iyokan-jp/blob/master/crystaldiskinfo-kureikei.json)
-  * [mery-beta](https://github.com/tetradice/scoop-iyokan-jp/blob/master/mery-beta.json)
-  * [winmerge-jp](https://github.com/tetradice/scoop-iyokan-jp/blob/master/winmerge-jp.json)
-  * [opera](https://github.com/tetradice/scoop-iyokan-jp/blob/master/opera.json)
-  * [exuberantctags-jp](https://github.com/tetradice/scoop-iyokan-jp/blob/master/exuberantctags-jp.json)
-  * [crystaldiskmark](https://github.com/tetradice/scoop-iyokan-jp/blob/master/crystaldiskmark.json)
-  * [sakura-editor](https://github.com/tetradice/scoop-iyokan-jp/blob/master/sakura-editor.json)
-  * [inazumasearch](https://github.com/tetradice/scoop-iyokan-jp/blob/master/inazumasearch.json)
-  * [ckw](https://github.com/tetradice/scoop-iyokan-jp/blob/master/ckw.json)
-  * [nyaos3](https://github.com/tetradice/scoop-iyokan-jp/blob/master/nyaos3.json)
 
 
 
@@ -835,6 +830,7 @@ A collection of awesome resource for the scoop package manager for windows
   * [gn](https://github.com/hulucc/bucket/blob/master/gn.json)
   * [android-sdk](https://github.com/hulucc/bucket/blob/master/android-sdk.json)
   * [cpptools](https://github.com/hulucc/bucket/blob/master/cpptools.json)
+  * [nebula](https://github.com/hulucc/bucket/blob/master/nebula.json)
   * [neo4j](https://github.com/hulucc/bucket/blob/master/neo4j.json)
 
 
@@ -901,23 +897,6 @@ A collection of awesome resource for the scoop package manager for windows
 
 [https://github.com/secrethub/scoop-secrethub](https://github.com/secrethub/scoop-secrethub)
   * [secrethub-cli](https://github.com/secrethub/scoop-secrethub/blob/master/secrethub-cli.json)
-
-
-
-[https://github.com/se35710/scoop-ibm](https://github.com/se35710/scoop-ibm)
-  * [wlp-micro](https://github.com/se35710/scoop-ibm/blob/master/wlp-micro.json)
-  * [wlp](https://github.com/se35710/scoop-ibm/blob/master/wlp.json)
-  * [eclipse-wdt](https://github.com/se35710/scoop-ibm/blob/master/eclipse-wdt.json)
-  * [wlp-javaee7](https://github.com/se35710/scoop-ibm/blob/master/wlp-javaee7.json)
-  * [wlp-javaeeclient7](https://github.com/se35710/scoop-ibm/blob/master/wlp-javaeeclient7.json)
-  * [wlp-osgi](https://github.com/se35710/scoop-ibm/blob/master/wlp-osgi.json)
-  * [wlp-kernel](https://github.com/se35710/scoop-ibm/blob/master/wlp-kernel.json)
-  * [wlp-javaeeclient8](https://github.com/se35710/scoop-ibm/blob/master/wlp-javaeeclient8.json)
-  * [wlp8](https://github.com/se35710/scoop-ibm/blob/master/wlp8.json)
-  * [wlp-javaee8](https://github.com/se35710/scoop-ibm/blob/master/wlp-javaee8.json)
-  * [wlp7](https://github.com/se35710/scoop-ibm/blob/master/wlp7.json)
-  * [wlp-javaeeclient](https://github.com/se35710/scoop-ibm/blob/master/wlp-javaeeclient.json)
-  * [wlp-javaee](https://github.com/se35710/scoop-ibm/blob/master/wlp-javaee.json)
 
 
 
@@ -1385,6 +1364,7 @@ A collection of awesome resource for the scoop package manager for windows
   * [minishift](https://github.com/rivy/scoop.bucket.scoop-main/blob/master/minishift.json)
   * [vimtutor](https://github.com/rivy/scoop.bucket.scoop-main/blob/master/vimtutor.json)
   * [aks-engine](https://github.com/rivy/scoop.bucket.scoop-main/blob/master/aks-engine.json)
+  * [cloudflared](https://github.com/rivy/scoop.bucket.scoop-main/blob/master/cloudflared.json)
   * [ln](https://github.com/rivy/scoop.bucket.scoop-main/blob/master/ln.json)
   * [lab](https://github.com/rivy/scoop.bucket.scoop-main/blob/master/lab.json)
   * [up](https://github.com/rivy/scoop.bucket.scoop-main/blob/master/up.json)
@@ -1638,6 +1618,7 @@ A collection of awesome resource for the scoop package manager for windows
   * [powerping](https://github.com/rivy/scoop.bucket.scoop-main/blob/master/powerping.json)
   * [ntop](https://github.com/rivy/scoop.bucket.scoop-main/blob/master/ntop.json)
   * [cmder](https://github.com/rivy/scoop.bucket.scoop-main/blob/master/cmder.json)
+  * [srecord](https://github.com/rivy/scoop.bucket.scoop-main/blob/master/srecord.json)
   * [dust](https://github.com/rivy/scoop.bucket.scoop-main/blob/master/dust.json)
   * [scc](https://github.com/rivy/scoop.bucket.scoop-main/blob/master/scc.json)
   * [etcd](https://github.com/rivy/scoop.bucket.scoop-main/blob/master/etcd.json)
@@ -1787,6 +1768,11 @@ A collection of awesome resource for the scoop package manager for windows
 
 
 
+[https://github.com/snyk/scoop-snyk](https://github.com/snyk/scoop-snyk)
+  * [snyk](https://github.com/snyk/scoop-snyk/blob/master/snyk.json)
+
+
+
 [https://github.com/goreleaser/scoop-bucket](https://github.com/goreleaser/scoop-bucket)
   * [goreleaser](https://github.com/goreleaser/scoop-bucket/blob/master/goreleaser.json)
   * [nfpm](https://github.com/goreleaser/scoop-bucket/blob/master/nfpm.json)
@@ -1805,10 +1791,5 @@ A collection of awesome resource for the scoop package manager for windows
 
 [https://github.com/bbond/scoop-bucket](https://github.com/bbond/scoop-bucket)
   * [dbeaver32](https://github.com/bbond/scoop-bucket/blob/master/dbeaver32.json)
-
-
-
-[https://github.com/simonwjackson/my-bucket](https://github.com/simonwjackson/my-bucket)
-  * [vivaldi](https://github.com/simonwjackson/my-bucket/blob/master/vivaldi.json)
 
 
