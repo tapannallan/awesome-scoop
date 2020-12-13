@@ -166,19 +166,6 @@ A collection of awesome resource for the scoop package manager for windows
 
 
 
-[https://github.com/rkbk60/scoop-for-jp](https://github.com/rkbk60/scoop-for-jp)
-  * [cica](https://github.com/rkbk60/scoop-for-jp/blob/master/cica.json)
-  * [emacs-nt](https://github.com/rkbk60/scoop-for-jp/blob/master/emacs-nt.json)
-  * [ricty-diminished](https://github.com/rkbk60/scoop-for-jp/blob/master/ricty-diminished.json)
-  * [nyagos](https://github.com/rkbk60/scoop-for-jp/blob/master/nyagos.json)
-  * [myrica-m](https://github.com/rkbk60/scoop-for-jp/blob/master/myrica-m.json)
-  * [jp-util-font](https://github.com/rkbk60/scoop-for-jp/blob/master/jp-util-font.json)
-  * [source-han-code-jp](https://github.com/rkbk60/scoop-for-jp/blob/master/source-han-code-jp.json)
-  * [myrica](https://github.com/rkbk60/scoop-for-jp/blob/master/myrica.json)
-  * [vim-kaoriya](https://github.com/rkbk60/scoop-for-jp/blob/master/vim-kaoriya.json)
-
-
-
 [https://github.com/nueko/scoop-php](https://github.com/nueko/scoop-php)
   * [php5.5.32](https://github.com/nueko/scoop-php/blob/master/php5.5.32.json)
   * [php5.4.27](https://github.com/nueko/scoop-php/blob/master/php5.4.27.json)
@@ -621,6 +608,19 @@ A collection of awesome resource for the scoop package manager for windows
 
 
 
+[https://github.com/rkbk60/scoop-for-jp](https://github.com/rkbk60/scoop-for-jp)
+  * [cica](https://github.com/rkbk60/scoop-for-jp/blob/master/cica.json)
+  * [emacs-nt](https://github.com/rkbk60/scoop-for-jp/blob/master/emacs-nt.json)
+  * [ricty-diminished](https://github.com/rkbk60/scoop-for-jp/blob/master/ricty-diminished.json)
+  * [nyagos](https://github.com/rkbk60/scoop-for-jp/blob/master/nyagos.json)
+  * [myrica-m](https://github.com/rkbk60/scoop-for-jp/blob/master/myrica-m.json)
+  * [jp-util-font](https://github.com/rkbk60/scoop-for-jp/blob/master/jp-util-font.json)
+  * [source-han-code-jp](https://github.com/rkbk60/scoop-for-jp/blob/master/source-han-code-jp.json)
+  * [myrica](https://github.com/rkbk60/scoop-for-jp/blob/master/myrica.json)
+  * [vim-kaoriya](https://github.com/rkbk60/scoop-for-jp/blob/master/vim-kaoriya.json)
+
+
+
 [https://github.com/tetradice/scoop-iyokan-jp](https://github.com/tetradice/scoop-iyokan-jp)
   * [mery](https://github.com/tetradice/scoop-iyokan-jp/blob/master/mery.json)
   * [tablacus-explorer](https://github.com/tetradice/scoop-iyokan-jp/blob/master/tablacus-explorer.json)
@@ -751,12 +751,6 @@ A collection of awesome resource for the scoop package manager for windows
 
 
 
-[https://github.com/NSIS-Dev/scoop-nsis](https://github.com/NSIS-Dev/scoop-nsis)
-  * [package-lock](https://github.com/NSIS-Dev/scoop-nsis/blob/master/package-lock.json)
-  * [package](https://github.com/NSIS-Dev/scoop-nsis/blob/master/package.json)
-
-
-
 [https://github.com/AStupidBear/scoop-bear](https://github.com/AStupidBear/scoop-bear)
   * [wgestures](https://github.com/AStupidBear/scoop-bear/blob/master/wgestures.json)
   * [anaconda3](https://github.com/AStupidBear/scoop-bear/blob/master/anaconda3.json)
@@ -816,6 +810,12 @@ A collection of awesome resource for the scoop package manager for windows
   * [llvm](https://github.com/AStupidBear/scoop-bear/blob/master/llvm.json)
   * [regextester](https://github.com/AStupidBear/scoop-bear/blob/master/regextester.json)
   * [woodpecker](https://github.com/AStupidBear/scoop-bear/blob/master/woodpecker.json)
+
+
+
+[https://github.com/NSIS-Dev/scoop-nsis](https://github.com/NSIS-Dev/scoop-nsis)
+  * [package-lock](https://github.com/NSIS-Dev/scoop-nsis/blob/master/package-lock.json)
+  * [package](https://github.com/NSIS-Dev/scoop-nsis/blob/master/package.json)
 
 
 
@@ -896,16 +896,6 @@ A collection of awesome resource for the scoop package manager for windows
 
 
 
-[https://github.com/secrethub/scoop-secrethub](https://github.com/secrethub/scoop-secrethub)
-  * [secrethub-cli](https://github.com/secrethub/scoop-secrethub/blob/master/secrethub-cli.json)
-
-
-
-[https://github.com/TianXiaTech/scoop-txt](https://github.com/TianXiaTech/scoop-txt)
-  * [app-list](https://github.com/TianXiaTech/scoop-txt/blob/master/app-list.json)
-
-
-
 [https://github.com/ondr3j/scoop-misc](https://github.com/ondr3j/scoop-misc)
   * [c-client](https://github.com/ondr3j/scoop-misc/blob/master/c-client.json)
   * [libjpeg](https://github.com/ondr3j/scoop-misc/blob/master/libjpeg.json)
@@ -945,6 +935,16 @@ A collection of awesome resource for the scoop package manager for windows
   * [flex](https://github.com/ondr3j/scoop-misc/blob/master/flex.json)
   * [libxml2](https://github.com/ondr3j/scoop-misc/blob/master/libxml2.json)
   * [ldc](https://github.com/ondr3j/scoop-misc/blob/master/ldc.json)
+
+
+
+[https://github.com/TianXiaTech/scoop-txt](https://github.com/TianXiaTech/scoop-txt)
+  * [app-list](https://github.com/TianXiaTech/scoop-txt/blob/master/app-list.json)
+
+
+
+[https://github.com/secrethub/scoop-secrethub](https://github.com/secrethub/scoop-secrethub)
+  * [secrethub-cli](https://github.com/secrethub/scoop-secrethub/blob/master/secrethub-cli.json)
 
 
 
@@ -1729,6 +1729,12 @@ A collection of awesome resource for the scoop package manager for windows
 
 
 
+[https://github.com/goreleaser/scoop-bucket](https://github.com/goreleaser/scoop-bucket)
+  * [goreleaser](https://github.com/goreleaser/scoop-bucket/blob/master/goreleaser.json)
+  * [nfpm](https://github.com/goreleaser/scoop-bucket/blob/master/nfpm.json)
+
+
+
 [https://github.com/jingyu9575/scoop-jingyu9575](https://github.com/jingyu9575/scoop-jingyu9575)
   * [schema](https://github.com/jingyu9575/scoop-jingyu9575/blob/master/schema.json)
 
@@ -1750,11 +1756,6 @@ A collection of awesome resource for the scoop package manager for windows
 
 
 
-[https://github.com/podhmo/scoop-buckets](https://github.com/podhmo/scoop-buckets)
-  * [xkeymacs](https://github.com/podhmo/scoop-buckets/blob/master/xkeymacs.json)
-
-
-
 [https://github.com/comp500/scoop-comp500](https://github.com/comp500/scoop-comp500)
   * [titledumper](https://github.com/comp500/scoop-comp500/blob/master/titledumper.json)
   * [famitracker](https://github.com/comp500/scoop-comp500/blob/master/famitracker.json)
@@ -1766,6 +1767,11 @@ A collection of awesome resource for the scoop package manager for windows
 
 
 
+[https://github.com/podhmo/scoop-buckets](https://github.com/podhmo/scoop-buckets)
+  * [xkeymacs](https://github.com/podhmo/scoop-buckets/blob/master/xkeymacs.json)
+
+
+
 [https://github.com/willvsmvp/scoop-buckets](https://github.com/willvsmvp/scoop-buckets)
   * [demo](https://github.com/willvsmvp/scoop-buckets/blob/master/demo.json)
 
@@ -1773,12 +1779,6 @@ A collection of awesome resource for the scoop package manager for windows
 
 [https://github.com/jdevora/my_scoop_bucket](https://github.com/jdevora/my_scoop_bucket)
   * [grails_beta](https://github.com/jdevora/my_scoop_bucket/blob/master/grails_beta.json)
-
-
-
-[https://github.com/goreleaser/scoop-bucket](https://github.com/goreleaser/scoop-bucket)
-  * [goreleaser](https://github.com/goreleaser/scoop-bucket/blob/master/goreleaser.json)
-  * [nfpm](https://github.com/goreleaser/scoop-bucket/blob/master/nfpm.json)
 
 
 
@@ -1797,7 +1797,7 @@ A collection of awesome resource for the scoop package manager for windows
 
 
 
-[https://github.com/bbond/scoop-bucket](https://github.com/bbond/scoop-bucket)
-  * [dbeaver32](https://github.com/bbond/scoop-bucket/blob/master/dbeaver32.json)
+[https://github.com/cryptogrampus/cuztum-bucket](https://github.com/cryptogrampus/cuztum-bucket)
+  * [vscode-insiders](https://github.com/cryptogrampus/cuztum-bucket/blob/master/vscode-insiders.json)
 
 
