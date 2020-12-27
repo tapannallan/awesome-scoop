@@ -706,18 +706,23 @@ A collection of awesome resource for the scoop package manager for windows
 
 
 
-[https://github.com/integzz/scoopet](https://github.com/integzz/scoopet)
-  * [package](https://github.com/integzz/scoopet/blob/master/package.json)
-
-
-
 [https://github.com/yuanying1199/scoopbucket](https://github.com/yuanying1199/scoopbucket)
   * [schema](https://github.com/yuanying1199/scoopbucket/blob/master/schema.json)
 
 
 
+[https://github.com/integzz/scoopet](https://github.com/integzz/scoopet)
+  * [package](https://github.com/integzz/scoopet/blob/master/package.json)
+
+
+
 [https://github.com/Rigellute/scoop-bucket](https://github.com/Rigellute/scoop-bucket)
   * [spotify-tui](https://github.com/Rigellute/scoop-bucket/blob/master/spotify-tui.json)
+
+
+
+[https://github.com/TianXiaTech/scoop-txt](https://github.com/TianXiaTech/scoop-txt)
+  * [app-list](https://github.com/TianXiaTech/scoop-txt/blob/master/app-list.json)
 
 
 
@@ -897,55 +902,19 @@ A collection of awesome resource for the scoop package manager for windows
 
 
 
-[https://github.com/ondr3j/scoop-misc](https://github.com/ondr3j/scoop-misc)
-  * [c-client](https://github.com/ondr3j/scoop-misc/blob/master/c-client.json)
-  * [libjpeg](https://github.com/ondr3j/scoop-misc/blob/master/libjpeg.json)
-  * [rsvg-convert](https://github.com/ondr3j/scoop-misc/blob/master/rsvg-convert.json)
-  * [glib](https://github.com/ondr3j/scoop-misc/blob/master/glib.json)
-  * [zlib](https://github.com/ondr3j/scoop-misc/blob/master/zlib.json)
-  * [file](https://github.com/ondr3j/scoop-misc/blob/master/file.json)
-  * [libpng](https://github.com/ondr3j/scoop-misc/blob/master/libpng.json)
-  * [libsasl](https://github.com/ondr3j/scoop-misc/blob/master/libsasl.json)
-  * [coffimplib](https://github.com/ondr3j/scoop-misc/blob/master/coffimplib.json)
-  * [libxpm](https://github.com/ondr3j/scoop-misc/blob/master/libxpm.json)
-  * [libffi](https://github.com/ondr3j/scoop-misc/blob/master/libffi.json)
-  * [openssl](https://github.com/ondr3j/scoop-misc/blob/master/openssl.json)
-  * [dub](https://github.com/ondr3j/scoop-misc/blob/master/dub.json)
-  * [dirent](https://github.com/ondr3j/scoop-misc/blob/master/dirent.json)
-  * [freetype](https://github.com/ondr3j/scoop-misc/blob/master/freetype.json)
-  * [libiconv](https://github.com/ondr3j/scoop-misc/blob/master/libiconv.json)
-  * [zip](https://github.com/ondr3j/scoop-misc/blob/master/zip.json)
-  * [libxslt](https://github.com/ondr3j/scoop-misc/blob/master/libxslt.json)
-  * [lzo](https://github.com/ondr3j/scoop-misc/blob/master/lzo.json)
-  * [elevate](https://github.com/ondr3j/scoop-misc/blob/master/elevate.json)
-  * [acpica](https://github.com/ondr3j/scoop-misc/blob/master/acpica.json)
-  * [libssh2](https://github.com/ondr3j/scoop-misc/blob/master/libssh2.json)
-  * [libargon2](https://github.com/ondr3j/scoop-misc/blob/master/libargon2.json)
-  * [libintl](https://github.com/ondr3j/scoop-misc/blob/master/libintl.json)
-  * [fciv](https://github.com/ondr3j/scoop-misc/blob/master/fciv.json)
-  * [re2c](https://github.com/ondr3j/scoop-misc/blob/master/re2c.json)
-  * [icu](https://github.com/ondr3j/scoop-misc/blob/master/icu.json)
-  * [dmd](https://github.com/ondr3j/scoop-misc/blob/master/dmd.json)
-  * [libbzip2](https://github.com/ondr3j/scoop-misc/blob/master/libbzip2.json)
-  * [xz](https://github.com/ondr3j/scoop-misc/blob/master/xz.json)
-  * [curl](https://github.com/ondr3j/scoop-misc/blob/master/curl.json)
-  * [lzop](https://github.com/ondr3j/scoop-misc/blob/master/lzop.json)
-  * [libmcrypt](https://github.com/ondr3j/scoop-misc/blob/master/libmcrypt.json)
-  * [wineditline](https://github.com/ondr3j/scoop-misc/blob/master/wineditline.json)
-  * [bison](https://github.com/ondr3j/scoop-misc/blob/master/bison.json)
-  * [flex](https://github.com/ondr3j/scoop-misc/blob/master/flex.json)
-  * [libxml2](https://github.com/ondr3j/scoop-misc/blob/master/libxml2.json)
-  * [ldc](https://github.com/ondr3j/scoop-misc/blob/master/ldc.json)
-
-
-
-[https://github.com/TianXiaTech/scoop-txt](https://github.com/TianXiaTech/scoop-txt)
-  * [app-list](https://github.com/TianXiaTech/scoop-txt/blob/master/app-list.json)
-
-
-
 [https://github.com/secrethub/scoop-secrethub](https://github.com/secrethub/scoop-secrethub)
   * [secrethub-cli](https://github.com/secrethub/scoop-secrethub/blob/master/secrethub-cli.json)
+
+
+
+[https://github.com/comp500/scoop-comp500](https://github.com/comp500/scoop-comp500)
+  * [titledumper](https://github.com/comp500/scoop-comp500/blob/master/titledumper.json)
+  * [famitracker](https://github.com/comp500/scoop-comp500/blob/master/famitracker.json)
+  * [cemu](https://github.com/comp500/scoop-comp500/blob/master/cemu.json)
+  * [cemu-shortcut](https://github.com/comp500/scoop-comp500/blob/master/cemu-shortcut.json)
+  * [powdertoy](https://github.com/comp500/scoop-comp500/blob/master/powdertoy.json)
+  * [cemuhook](https://github.com/comp500/scoop-comp500/blob/master/cemuhook.json)
+  * [syncplay](https://github.com/comp500/scoop-comp500/blob/master/syncplay.json)
 
 
 
@@ -1740,6 +1709,48 @@ A collection of awesome resource for the scoop package manager for windows
 
 
 
+[https://github.com/ondr3j/scoop-misc](https://github.com/ondr3j/scoop-misc)
+  * [c-client](https://github.com/ondr3j/scoop-misc/blob/master/c-client.json)
+  * [libjpeg](https://github.com/ondr3j/scoop-misc/blob/master/libjpeg.json)
+  * [rsvg-convert](https://github.com/ondr3j/scoop-misc/blob/master/rsvg-convert.json)
+  * [glib](https://github.com/ondr3j/scoop-misc/blob/master/glib.json)
+  * [zlib](https://github.com/ondr3j/scoop-misc/blob/master/zlib.json)
+  * [file](https://github.com/ondr3j/scoop-misc/blob/master/file.json)
+  * [libpng](https://github.com/ondr3j/scoop-misc/blob/master/libpng.json)
+  * [libsasl](https://github.com/ondr3j/scoop-misc/blob/master/libsasl.json)
+  * [coffimplib](https://github.com/ondr3j/scoop-misc/blob/master/coffimplib.json)
+  * [libxpm](https://github.com/ondr3j/scoop-misc/blob/master/libxpm.json)
+  * [libffi](https://github.com/ondr3j/scoop-misc/blob/master/libffi.json)
+  * [openssl](https://github.com/ondr3j/scoop-misc/blob/master/openssl.json)
+  * [dub](https://github.com/ondr3j/scoop-misc/blob/master/dub.json)
+  * [dirent](https://github.com/ondr3j/scoop-misc/blob/master/dirent.json)
+  * [freetype](https://github.com/ondr3j/scoop-misc/blob/master/freetype.json)
+  * [libiconv](https://github.com/ondr3j/scoop-misc/blob/master/libiconv.json)
+  * [zip](https://github.com/ondr3j/scoop-misc/blob/master/zip.json)
+  * [libxslt](https://github.com/ondr3j/scoop-misc/blob/master/libxslt.json)
+  * [lzo](https://github.com/ondr3j/scoop-misc/blob/master/lzo.json)
+  * [elevate](https://github.com/ondr3j/scoop-misc/blob/master/elevate.json)
+  * [acpica](https://github.com/ondr3j/scoop-misc/blob/master/acpica.json)
+  * [libssh2](https://github.com/ondr3j/scoop-misc/blob/master/libssh2.json)
+  * [libargon2](https://github.com/ondr3j/scoop-misc/blob/master/libargon2.json)
+  * [libintl](https://github.com/ondr3j/scoop-misc/blob/master/libintl.json)
+  * [fciv](https://github.com/ondr3j/scoop-misc/blob/master/fciv.json)
+  * [re2c](https://github.com/ondr3j/scoop-misc/blob/master/re2c.json)
+  * [icu](https://github.com/ondr3j/scoop-misc/blob/master/icu.json)
+  * [dmd](https://github.com/ondr3j/scoop-misc/blob/master/dmd.json)
+  * [libbzip2](https://github.com/ondr3j/scoop-misc/blob/master/libbzip2.json)
+  * [xz](https://github.com/ondr3j/scoop-misc/blob/master/xz.json)
+  * [curl](https://github.com/ondr3j/scoop-misc/blob/master/curl.json)
+  * [lzop](https://github.com/ondr3j/scoop-misc/blob/master/lzop.json)
+  * [libmcrypt](https://github.com/ondr3j/scoop-misc/blob/master/libmcrypt.json)
+  * [wineditline](https://github.com/ondr3j/scoop-misc/blob/master/wineditline.json)
+  * [bison](https://github.com/ondr3j/scoop-misc/blob/master/bison.json)
+  * [flex](https://github.com/ondr3j/scoop-misc/blob/master/flex.json)
+  * [libxml2](https://github.com/ondr3j/scoop-misc/blob/master/libxml2.json)
+  * [ldc](https://github.com/ondr3j/scoop-misc/blob/master/ldc.json)
+
+
+
 [https://github.com/jingyu9575/scoop-jingyu9575](https://github.com/jingyu9575/scoop-jingyu9575)
   * [schema](https://github.com/jingyu9575/scoop-jingyu9575/blob/master/schema.json)
 
@@ -1758,17 +1769,6 @@ A collection of awesome resource for the scoop package manager for windows
 
 [https://github.com/replit/scoop-bucket](https://github.com/replit/scoop-bucket)
   * [upm](https://github.com/replit/scoop-bucket/blob/master/upm.json)
-
-
-
-[https://github.com/comp500/scoop-comp500](https://github.com/comp500/scoop-comp500)
-  * [titledumper](https://github.com/comp500/scoop-comp500/blob/master/titledumper.json)
-  * [famitracker](https://github.com/comp500/scoop-comp500/blob/master/famitracker.json)
-  * [cemu](https://github.com/comp500/scoop-comp500/blob/master/cemu.json)
-  * [cemu-shortcut](https://github.com/comp500/scoop-comp500/blob/master/cemu-shortcut.json)
-  * [powdertoy](https://github.com/comp500/scoop-comp500/blob/master/powdertoy.json)
-  * [cemuhook](https://github.com/comp500/scoop-comp500/blob/master/cemuhook.json)
-  * [syncplay](https://github.com/comp500/scoop-comp500/blob/master/syncplay.json)
 
 
 
@@ -1792,12 +1792,7 @@ A collection of awesome resource for the scoop package manager for windows
 
 
 
-[https://github.com/cryptogrampus/cuztum-bucket](https://github.com/cryptogrampus/cuztum-bucket)
-  * [vscode-insiders](https://github.com/cryptogrampus/cuztum-bucket/blob/master/vscode-insiders.json)
-
-
-
-[https://github.com/mine211/my-bucket](https://github.com/mine211/my-bucket)
-  * [kdenlive](https://github.com/mine211/my-bucket/blob/master/kdenlive.json)
+[https://github.com/bbond/scoop-bucket](https://github.com/bbond/scoop-bucket)
+  * [dbeaver32](https://github.com/bbond/scoop-bucket/blob/master/dbeaver32.json)
 
 
