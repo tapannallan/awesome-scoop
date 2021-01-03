@@ -28,6 +28,7 @@ A collection of awesome resource for the scoop package manager for windows
   * [clrprofiler](https://github.com/wangzq/scoop-bucket/blob/master/clrprofiler.json)
   * [msos](https://github.com/wangzq/scoop-bucket/blob/master/msos.json)
   * [sqliteadmin](https://github.com/wangzq/scoop-bucket/blob/master/sqliteadmin.json)
+  * [ilspycmd](https://github.com/wangzq/scoop-bucket/blob/master/ilspycmd.json)
   * [TortoiseGit](https://github.com/wangzq/scoop-bucket/blob/master/TortoiseGit.json)
   * [selfssl](https://github.com/wangzq/scoop-bucket/blob/master/selfssl.json)
   * [subinacl](https://github.com/wangzq/scoop-bucket/blob/master/subinacl.json)
@@ -716,13 +717,13 @@ A collection of awesome resource for the scoop package manager for windows
 
 
 
-[https://github.com/Rigellute/scoop-bucket](https://github.com/Rigellute/scoop-bucket)
-  * [spotify-tui](https://github.com/Rigellute/scoop-bucket/blob/master/spotify-tui.json)
-
-
-
 [https://github.com/TianXiaTech/scoop-txt](https://github.com/TianXiaTech/scoop-txt)
   * [app-list](https://github.com/TianXiaTech/scoop-txt/blob/master/app-list.json)
+
+
+
+[https://github.com/Rigellute/scoop-bucket](https://github.com/Rigellute/scoop-bucket)
+  * [spotify-tui](https://github.com/Rigellute/scoop-bucket/blob/master/spotify-tui.json)
 
 
 
@@ -965,6 +966,7 @@ A collection of awesome resource for the scoop package manager for windows
   * [aws-iam-authenticator](https://github.com/rivy/scoop.bucket.scoop-main/blob/master/aws-iam-authenticator.json)
   * [ahoy](https://github.com/rivy/scoop.bucket.scoop-main/blob/master/ahoy.json)
   * [z.lua](https://github.com/rivy/scoop.bucket.scoop-main/blob/master/z.lua.json)
+  * [ethr](https://github.com/rivy/scoop.bucket.scoop-main/blob/master/ethr.json)
   * [nunit-extension-vs-project-loader](https://github.com/rivy/scoop.bucket.scoop-main/blob/master/nunit-extension-vs-project-loader.json)
   * [micro](https://github.com/rivy/scoop.bucket.scoop-main/blob/master/micro.json)
   * [lf](https://github.com/rivy/scoop.bucket.scoop-main/blob/master/lf.json)
@@ -1003,6 +1005,7 @@ A collection of awesome resource for the scoop package manager for windows
   * [rclone](https://github.com/rivy/scoop.bucket.scoop-main/blob/master/rclone.json)
   * [git-filter-repo](https://github.com/rivy/scoop.bucket.scoop-main/blob/master/git-filter-repo.json)
   * [jcli](https://github.com/rivy/scoop.bucket.scoop-main/blob/master/jcli.json)
+  * [amulet](https://github.com/rivy/scoop.bucket.scoop-main/blob/master/amulet.json)
   * [rancher-cli](https://github.com/rivy/scoop.bucket.scoop-main/blob/master/rancher-cli.json)
   * [zeebe](https://github.com/rivy/scoop.bucket.scoop-main/blob/master/zeebe.json)
   * [gping](https://github.com/rivy/scoop.bucket.scoop-main/blob/master/gping.json)
@@ -1164,6 +1167,7 @@ A collection of awesome resource for the scoop package manager for windows
   * [pkg-config](https://github.com/rivy/scoop.bucket.scoop-main/blob/master/pkg-config.json)
   * [runasti](https://github.com/rivy/scoop.bucket.scoop-main/blob/master/runasti.json)
   * [ghq](https://github.com/rivy/scoop.bucket.scoop-main/blob/master/ghq.json)
+  * [nali](https://github.com/rivy/scoop.bucket.scoop-main/blob/master/nali.json)
   * [puppet](https://github.com/rivy/scoop.bucket.scoop-main/blob/master/puppet.json)
   * [latexindent](https://github.com/rivy/scoop.bucket.scoop-main/blob/master/latexindent.json)
   * [intermodal](https://github.com/rivy/scoop.bucket.scoop-main/blob/master/intermodal.json)
@@ -1379,6 +1383,7 @@ A collection of awesome resource for the scoop package manager for windows
   * [smartmontools](https://github.com/rivy/scoop.bucket.scoop-main/blob/master/smartmontools.json)
   * [gitea](https://github.com/rivy/scoop.bucket.scoop-main/blob/master/gitea.json)
   * [btyacc](https://github.com/rivy/scoop.bucket.scoop-main/blob/master/btyacc.json)
+  * [glab](https://github.com/rivy/scoop.bucket.scoop-main/blob/master/glab.json)
   * [insect](https://github.com/rivy/scoop.bucket.scoop-main/blob/master/insect.json)
   * [kustomize](https://github.com/rivy/scoop.bucket.scoop-main/blob/master/kustomize.json)
   * [selenium](https://github.com/rivy/scoop.bucket.scoop-main/blob/master/selenium.json)
@@ -1435,6 +1440,7 @@ A collection of awesome resource for the scoop package manager for windows
   * [gogs](https://github.com/rivy/scoop.bucket.scoop-main/blob/master/gogs.json)
   * [ag](https://github.com/rivy/scoop.bucket.scoop-main/blob/master/ag.json)
   * [wp-cli](https://github.com/rivy/scoop.bucket.scoop-main/blob/master/wp-cli.json)
+  * [jid](https://github.com/rivy/scoop.bucket.scoop-main/blob/master/jid.json)
   * [duplicacy](https://github.com/rivy/scoop.bucket.scoop-main/blob/master/duplicacy.json)
   * [cfr](https://github.com/rivy/scoop.bucket.scoop-main/blob/master/cfr.json)
   * [git-tfs](https://github.com/rivy/scoop.bucket.scoop-main/blob/master/git-tfs.json)
@@ -1526,6 +1532,7 @@ A collection of awesome resource for the scoop package manager for windows
   * [syncthing](https://github.com/rivy/scoop.bucket.scoop-main/blob/master/syncthing.json)
   * [liquibase](https://github.com/rivy/scoop.bucket.scoop-main/blob/master/liquibase.json)
   * [gawk](https://github.com/rivy/scoop.bucket.scoop-main/blob/master/gawk.json)
+  * [sndcpy](https://github.com/rivy/scoop.bucket.scoop-main/blob/master/sndcpy.json)
   * [gallery-dl](https://github.com/rivy/scoop.bucket.scoop-main/blob/master/gallery-dl.json)
   * [xpdf-tools](https://github.com/rivy/scoop.bucket.scoop-main/blob/master/xpdf-tools.json)
   * [pack](https://github.com/rivy/scoop.bucket.scoop-main/blob/master/pack.json)
@@ -1627,6 +1634,7 @@ A collection of awesome resource for the scoop package manager for windows
   * [lcow](https://github.com/rivy/scoop.bucket.scoop-main/blob/master/lcow.json)
   * [argocd](https://github.com/rivy/scoop.bucket.scoop-main/blob/master/argocd.json)
   * [acmesharp](https://github.com/rivy/scoop.bucket.scoop-main/blob/master/acmesharp.json)
+  * [oh-my-posh3](https://github.com/rivy/scoop.bucket.scoop-main/blob/master/oh-my-posh3.json)
   * [elm](https://github.com/rivy/scoop.bucket.scoop-main/blob/master/elm.json)
   * [brotli](https://github.com/rivy/scoop.bucket.scoop-main/blob/master/brotli.json)
   * [ldc](https://github.com/rivy/scoop.bucket.scoop-main/blob/master/ldc.json)
@@ -1792,7 +1800,7 @@ A collection of awesome resource for the scoop package manager for windows
 
 
 
-[https://github.com/bbond/scoop-bucket](https://github.com/bbond/scoop-bucket)
-  * [dbeaver32](https://github.com/bbond/scoop-bucket/blob/master/dbeaver32.json)
+[https://github.com/devcsrj/scoop-bucket](https://github.com/devcsrj/scoop-bucket)
+  * [jarl](https://github.com/devcsrj/scoop-bucket/blob/master/jarl.json)
 
 
