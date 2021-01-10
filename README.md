@@ -120,6 +120,7 @@ A collection of awesome resource for the scoop package manager for windows
   * [KeyPress-OSD](https://github.com/wangzq/scoop-bucket/blob/master/KeyPress-OSD.json)
   * [apiport](https://github.com/wangzq/scoop-bucket/blob/master/apiport.json)
   * [vimahk](https://github.com/wangzq/scoop-bucket/blob/master/vimahk.json)
+  * [csv2db](https://github.com/wangzq/scoop-bucket/blob/master/csv2db.json)
   * [lister](https://github.com/wangzq/scoop-bucket/blob/master/lister.json)
   * [pdbdump](https://github.com/wangzq/scoop-bucket/blob/master/pdbdump.json)
   * [logparserstudio](https://github.com/wangzq/scoop-bucket/blob/master/logparserstudio.json)
@@ -156,6 +157,7 @@ A collection of awesome resource for the scoop package manager for windows
   * [nurefs](https://github.com/wangzq/scoop-bucket/blob/master/nurefs.json)
   * [IntelliTraceCPConfig](https://github.com/wangzq/scoop-bucket/blob/master/IntelliTraceCPConfig.json)
   * [perfview](https://github.com/wangzq/scoop-bucket/blob/master/perfview.json)
+  * [portqry](https://github.com/wangzq/scoop-bucket/blob/master/portqry.json)
   * [iedriver](https://github.com/wangzq/scoop-bucket/blob/master/iedriver.json)
   * [keyhh](https://github.com/wangzq/scoop-bucket/blob/master/keyhh.json)
   * [calibre-alt](https://github.com/wangzq/scoop-bucket/blob/master/calibre-alt.json)
@@ -707,6 +709,11 @@ A collection of awesome resource for the scoop package manager for windows
 
 
 
+[https://github.com/Rigellute/scoop-bucket](https://github.com/Rigellute/scoop-bucket)
+  * [spotify-tui](https://github.com/Rigellute/scoop-bucket/blob/master/spotify-tui.json)
+
+
+
 [https://github.com/yuanying1199/scoopbucket](https://github.com/yuanying1199/scoopbucket)
   * [schema](https://github.com/yuanying1199/scoopbucket/blob/master/schema.json)
 
@@ -719,11 +726,6 @@ A collection of awesome resource for the scoop package manager for windows
 
 [https://github.com/TianXiaTech/scoop-txt](https://github.com/TianXiaTech/scoop-txt)
   * [app-list](https://github.com/TianXiaTech/scoop-txt/blob/master/app-list.json)
-
-
-
-[https://github.com/Rigellute/scoop-bucket](https://github.com/Rigellute/scoop-bucket)
-  * [spotify-tui](https://github.com/Rigellute/scoop-bucket/blob/master/spotify-tui.json)
 
 
 
@@ -753,14 +755,13 @@ A collection of awesome resource for the scoop package manager for windows
 
 
 
+[https://github.com/janet-lang/scoop](https://github.com/janet-lang/scoop)
+  * [janet](https://github.com/janet-lang/scoop/blob/master/janet.json)
+
+
+
 [https://github.com/Southclaws/scoops](https://github.com/Southclaws/scoops)
   * [sampctl](https://github.com/Southclaws/scoops/blob/master/sampctl.json)
-
-
-
-[https://github.com/NSIS-Dev/scoop-nsis](https://github.com/NSIS-Dev/scoop-nsis)
-  * [package-lock](https://github.com/NSIS-Dev/scoop-nsis/blob/master/package-lock.json)
-  * [package](https://github.com/NSIS-Dev/scoop-nsis/blob/master/package.json)
 
 
 
@@ -823,6 +824,12 @@ A collection of awesome resource for the scoop package manager for windows
   * [llvm](https://github.com/AStupidBear/scoop-bear/blob/master/llvm.json)
   * [regextester](https://github.com/AStupidBear/scoop-bear/blob/master/regextester.json)
   * [woodpecker](https://github.com/AStupidBear/scoop-bear/blob/master/woodpecker.json)
+
+
+
+[https://github.com/NSIS-Dev/scoop-nsis](https://github.com/NSIS-Dev/scoop-nsis)
+  * [package-lock](https://github.com/NSIS-Dev/scoop-nsis/blob/master/package-lock.json)
+  * [package](https://github.com/NSIS-Dev/scoop-nsis/blob/master/package.json)
 
 
 
@@ -1717,6 +1724,11 @@ A collection of awesome resource for the scoop package manager for windows
 
 
 
+[https://github.com/jingyu9575/scoop-jingyu9575](https://github.com/jingyu9575/scoop-jingyu9575)
+  * [schema](https://github.com/jingyu9575/scoop-jingyu9575/blob/master/schema.json)
+
+
+
 [https://github.com/ondr3j/scoop-misc](https://github.com/ondr3j/scoop-misc)
   * [c-client](https://github.com/ondr3j/scoop-misc/blob/master/c-client.json)
   * [libjpeg](https://github.com/ondr3j/scoop-misc/blob/master/libjpeg.json)
@@ -1759,11 +1771,6 @@ A collection of awesome resource for the scoop package manager for windows
 
 
 
-[https://github.com/jingyu9575/scoop-jingyu9575](https://github.com/jingyu9575/scoop-jingyu9575)
-  * [schema](https://github.com/jingyu9575/scoop-jingyu9575/blob/master/schema.json)
-
-
-
 [https://github.com/kingchang/scoop-buckets](https://github.com/kingchang/scoop-buckets)
   * [intellij-idea-ce](https://github.com/kingchang/scoop-buckets/blob/master/intellij-idea-ce.json)
   * [intellij-idea](https://github.com/kingchang/scoop-buckets/blob/master/intellij-idea.json)
@@ -1800,7 +1807,7 @@ A collection of awesome resource for the scoop package manager for windows
 
 
 
-[https://github.com/devcsrj/scoop-bucket](https://github.com/devcsrj/scoop-bucket)
-  * [jarl](https://github.com/devcsrj/scoop-bucket/blob/master/jarl.json)
+[https://github.com/bbond/scoop-bucket](https://github.com/bbond/scoop-bucket)
+  * [dbeaver32](https://github.com/bbond/scoop-bucket/blob/master/dbeaver32.json)
 
 
