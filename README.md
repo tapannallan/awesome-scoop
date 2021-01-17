@@ -729,6 +729,11 @@ A collection of awesome resource for the scoop package manager for windows
 
 
 
+[https://github.com/snyk/scoop-snyk](https://github.com/snyk/scoop-snyk)
+  * [snyk](https://github.com/snyk/scoop-snyk/blob/master/snyk.json)
+
+
+
 [https://github.com/maman/scoop-bucket](https://github.com/maman/scoop-bucket)
   * [vim-nox](https://github.com/maman/scoop-bucket/blob/master/vim-nox.json)
   * [android-sdk](https://github.com/maman/scoop-bucket/blob/master/android-sdk.json)
@@ -752,6 +757,28 @@ A collection of awesome resource for the scoop package manager for windows
 
 [https://github.com/svkoh/scoop-bucket](https://github.com/svkoh/scoop-bucket)
   * [tortoisegit](https://github.com/svkoh/scoop-bucket/blob/master/tortoisegit.json)
+
+
+
+[https://github.com/raisercostin/raiser-scoop-bucket](https://github.com/raisercostin/raiser-scoop-bucket)
+  * [docker-ee](https://github.com/raisercostin/raiser-scoop-bucket/blob/master/docker-ee.json)
+  * [pidgin](https://github.com/raisercostin/raiser-scoop-bucket/blob/master/pidgin.json)
+  * [kscript](https://github.com/raisercostin/raiser-scoop-bucket/blob/master/kscript.json)
+  * [yed](https://github.com/raisercostin/raiser-scoop-bucket/blob/master/yed.json)
+  * [picasa](https://github.com/raisercostin/raiser-scoop-bucket/blob/master/picasa.json)
+  * [raisercostin-utils](https://github.com/raisercostin/raiser-scoop-bucket/blob/master/raisercostin-utils.json)
+  * [pidgin-facebook](https://github.com/raisercostin/raiser-scoop-bucket/blob/master/pidgin-facebook.json)
+  * [pidgin-full](https://github.com/raisercostin/raiser-scoop-bucket/blob/master/pidgin-full.json)
+  * [wireguard](https://github.com/raisercostin/raiser-scoop-bucket/blob/master/wireguard.json)
+  * [latencymon](https://github.com/raisercostin/raiser-scoop-bucket/blob/master/latencymon.json)
+  * [pidgin-telegram](https://github.com/raisercostin/raiser-scoop-bucket/blob/master/pidgin-telegram.json)
+  * [picasa-starter](https://github.com/raisercostin/raiser-scoop-bucket/blob/master/picasa-starter.json)
+  * [riot](https://github.com/raisercostin/raiser-scoop-bucket/blob/master/riot.json)
+  * [cutepdf](https://github.com/raisercostin/raiser-scoop-bucket/blob/master/cutepdf.json)
+  * [tortoisegit](https://github.com/raisercostin/raiser-scoop-bucket/blob/master/tortoisegit.json)
+  * [freeplane](https://github.com/raisercostin/raiser-scoop-bucket/blob/master/freeplane.json)
+  * [hello](https://github.com/raisercostin/raiser-scoop-bucket/blob/master/hello.json)
+  * [chansort](https://github.com/raisercostin/raiser-scoop-bucket/blob/master/chansort.json)
 
 
 
@@ -907,6 +934,11 @@ A collection of awesome resource for the scoop package manager for windows
 [https://github.com/onlyice/scoop-bucket](https://github.com/onlyice/scoop-bucket)
   * [qshell](https://github.com/onlyice/scoop-bucket/blob/master/qshell.json)
   * [cosupload](https://github.com/onlyice/scoop-bucket/blob/master/cosupload.json)
+
+
+
+[https://github.com/jingyu9575/scoop-jingyu9575](https://github.com/jingyu9575/scoop-jingyu9575)
+  * [schema](https://github.com/jingyu9575/scoop-jingyu9575/blob/master/schema.json)
 
 
 
@@ -1724,11 +1756,6 @@ A collection of awesome resource for the scoop package manager for windows
 
 
 
-[https://github.com/jingyu9575/scoop-jingyu9575](https://github.com/jingyu9575/scoop-jingyu9575)
-  * [schema](https://github.com/jingyu9575/scoop-jingyu9575/blob/master/schema.json)
-
-
-
 [https://github.com/ondr3j/scoop-misc](https://github.com/ondr3j/scoop-misc)
   * [c-client](https://github.com/ondr3j/scoop-misc/blob/master/c-client.json)
   * [libjpeg](https://github.com/ondr3j/scoop-misc/blob/master/libjpeg.json)
@@ -1777,18 +1804,8 @@ A collection of awesome resource for the scoop package manager for windows
 
 
 
-[https://github.com/butteria/scoop](https://github.com/butteria/scoop)
-  * [hello](https://github.com/butteria/scoop/blob/master/hello.json)
-
-
-
 [https://github.com/replit/scoop-bucket](https://github.com/replit/scoop-bucket)
   * [upm](https://github.com/replit/scoop-bucket/blob/master/upm.json)
-
-
-
-[https://github.com/podhmo/scoop-buckets](https://github.com/podhmo/scoop-buckets)
-  * [xkeymacs](https://github.com/podhmo/scoop-buckets/blob/master/xkeymacs.json)
 
 
 
@@ -1797,17 +1814,12 @@ A collection of awesome resource for the scoop package manager for windows
 
 
 
+[https://github.com/podhmo/scoop-buckets](https://github.com/podhmo/scoop-buckets)
+  * [xkeymacs](https://github.com/podhmo/scoop-buckets/blob/master/xkeymacs.json)
+
+
+
 [https://github.com/jdevora/my_scoop_bucket](https://github.com/jdevora/my_scoop_bucket)
   * [grails_beta](https://github.com/jdevora/my_scoop_bucket/blob/master/grails_beta.json)
-
-
-
-[https://github.com/snyk/scoop-snyk](https://github.com/snyk/scoop-snyk)
-  * [snyk](https://github.com/snyk/scoop-snyk/blob/master/snyk.json)
-
-
-
-[https://github.com/bbond/scoop-bucket](https://github.com/bbond/scoop-bucket)
-  * [dbeaver32](https://github.com/bbond/scoop-bucket/blob/master/dbeaver32.json)
 
 
