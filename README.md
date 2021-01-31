@@ -995,6 +995,7 @@ A collection of awesome resource for the scoop package manager for windows
   * [racket-minimal](https://github.com/rivy/scoop.bucket.scoop-main/blob/master/racket-minimal.json)
   * [mls-software-openssh](https://github.com/rivy/scoop.bucket.scoop-main/blob/master/mls-software-openssh.json)
   * [mill](https://github.com/rivy/scoop.bucket.scoop-main/blob/master/mill.json)
+  * [dua](https://github.com/rivy/scoop.bucket.scoop-main/blob/master/dua.json)
   * [gzip](https://github.com/rivy/scoop.bucket.scoop-main/blob/master/gzip.json)
   * [wget](https://github.com/rivy/scoop.bucket.scoop-main/blob/master/wget.json)
   * [invoke-build](https://github.com/rivy/scoop.bucket.scoop-main/blob/master/invoke-build.json)
