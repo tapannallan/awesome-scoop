@@ -11,12 +11,6 @@ A collection of awesome resource for the scoop package manager for windows
 
 
 
-[https://github.com/kidonng/sushi](https://github.com/kidonng/sushi)
-  * [.prettierrc](https://github.com/kidonng/sushi/blob/master/.prettierrc.json)
-  * [vercel](https://github.com/kidonng/sushi/blob/master/vercel.json)
-
-
-
 [https://github.com/wangzq/scoop-bucket](https://github.com/wangzq/scoop-bucket)
   * [fusionpp](https://github.com/wangzq/scoop-bucket/blob/master/fusionpp.json)
   * [clrinject](https://github.com/wangzq/scoop-bucket/blob/master/clrinject.json)
@@ -157,6 +151,7 @@ A collection of awesome resource for the scoop package manager for windows
   * [nurefs](https://github.com/wangzq/scoop-bucket/blob/master/nurefs.json)
   * [IntelliTraceCPConfig](https://github.com/wangzq/scoop-bucket/blob/master/IntelliTraceCPConfig.json)
   * [perfview](https://github.com/wangzq/scoop-bucket/blob/master/perfview.json)
+  * [dotnet-core-uninstall](https://github.com/wangzq/scoop-bucket/blob/master/dotnet-core-uninstall.json)
   * [portqry](https://github.com/wangzq/scoop-bucket/blob/master/portqry.json)
   * [iedriver](https://github.com/wangzq/scoop-bucket/blob/master/iedriver.json)
   * [keyhh](https://github.com/wangzq/scoop-bucket/blob/master/keyhh.json)
@@ -167,6 +162,11 @@ A collection of awesome resource for the scoop package manager for windows
   * [codesearch](https://github.com/wangzq/scoop-bucket/blob/master/codesearch.json)
   * [openjdk-with-jfx](https://github.com/wangzq/scoop-bucket/blob/master/openjdk-with-jfx.json)
   * [Wangzq.VimHelpers](https://github.com/wangzq/scoop-bucket/blob/master/Wangzq.VimHelpers.json)
+
+
+
+[https://github.com/integzz/scoopet](https://github.com/integzz/scoopet)
+  * [package](https://github.com/integzz/scoopet/blob/master/package.json)
 
 
 
@@ -776,11 +776,6 @@ A collection of awesome resource for the scoop package manager for windows
 
 
 
-[https://github.com/integzz/scoopet](https://github.com/integzz/scoopet)
-  * [package](https://github.com/integzz/scoopet/blob/master/package.json)
-
-
-
 [https://github.com/yuanying1199/scoopbucket](https://github.com/yuanying1199/scoopbucket)
   * [schema](https://github.com/yuanying1199/scoopbucket/blob/master/schema.json)
 
@@ -817,11 +812,6 @@ A collection of awesome resource for the scoop package manager for windows
 
 
 
-[https://github.com/svkoh/scoop-bucket](https://github.com/svkoh/scoop-bucket)
-  * [tortoisegit](https://github.com/svkoh/scoop-bucket/blob/master/tortoisegit.json)
-
-
-
 [https://github.com/raisercostin/raiser-scoop-bucket](https://github.com/raisercostin/raiser-scoop-bucket)
   * [docker-ee](https://github.com/raisercostin/raiser-scoop-bucket/blob/master/docker-ee.json)
   * [pidgin](https://github.com/raisercostin/raiser-scoop-bucket/blob/master/pidgin.json)
@@ -844,13 +834,18 @@ A collection of awesome resource for the scoop package manager for windows
 
 
 
-[https://github.com/Southclaws/scoops](https://github.com/Southclaws/scoops)
-  * [sampctl](https://github.com/Southclaws/scoops/blob/master/sampctl.json)
+[https://github.com/svkoh/scoop-bucket](https://github.com/svkoh/scoop-bucket)
+  * [tortoisegit](https://github.com/svkoh/scoop-bucket/blob/master/tortoisegit.json)
 
 
 
 [https://github.com/janet-lang/scoop](https://github.com/janet-lang/scoop)
   * [janet](https://github.com/janet-lang/scoop/blob/master/janet.json)
+
+
+
+[https://github.com/Southclaws/scoops](https://github.com/Southclaws/scoops)
+  * [sampctl](https://github.com/Southclaws/scoops/blob/master/sampctl.json)
 
 
 
@@ -1537,6 +1532,7 @@ A collection of awesome resource for the scoop package manager for windows
   * [ack](https://github.com/rivy/scoop.bucket.scoop-main/blob/master/ack.json)
   * [resharper-clt](https://github.com/rivy/scoop.bucket.scoop-main/blob/master/resharper-clt.json)
   * [mach2](https://github.com/rivy/scoop.bucket.scoop-main/blob/master/mach2.json)
+  * [aws-copilot](https://github.com/rivy/scoop.bucket.scoop-main/blob/master/aws-copilot.json)
   * [gettext](https://github.com/rivy/scoop.bucket.scoop-main/blob/master/gettext.json)
   * [grep](https://github.com/rivy/scoop.bucket.scoop-main/blob/master/grep.json)
   * [terraform-provider-ibm](https://github.com/rivy/scoop.bucket.scoop-main/blob/master/terraform-provider-ibm.json)
@@ -1605,6 +1601,7 @@ A collection of awesome resource for the scoop package manager for windows
   * [git](https://github.com/rivy/scoop.bucket.scoop-main/blob/master/git.json)
   * [guetzli](https://github.com/rivy/scoop.bucket.scoop-main/blob/master/guetzli.json)
   * [mailsend](https://github.com/rivy/scoop.bucket.scoop-main/blob/master/mailsend.json)
+  * [xh](https://github.com/rivy/scoop.bucket.scoop-main/blob/master/xh.json)
   * [qrcp](https://github.com/rivy/scoop.bucket.scoop-main/blob/master/qrcp.json)
   * [k0s](https://github.com/rivy/scoop.bucket.scoop-main/blob/master/k0s.json)
   * [omnisharp](https://github.com/rivy/scoop.bucket.scoop-main/blob/master/omnisharp.json)
@@ -1838,12 +1835,17 @@ A collection of awesome resource for the scoop package manager for windows
 
 
 
+[https://github.com/willvsmvp/scoop-buckets](https://github.com/willvsmvp/scoop-buckets)
+  * [demo](https://github.com/willvsmvp/scoop-buckets/blob/master/demo.json)
+
+
+
 [https://github.com/podhmo/scoop-buckets](https://github.com/podhmo/scoop-buckets)
   * [xkeymacs](https://github.com/podhmo/scoop-buckets/blob/master/xkeymacs.json)
 
 
 
-[https://github.com/willvsmvp/scoop-buckets](https://github.com/willvsmvp/scoop-buckets)
-  * [demo](https://github.com/willvsmvp/scoop-buckets/blob/master/demo.json)
+[https://github.com/jdevora/my_scoop_bucket](https://github.com/jdevora/my_scoop_bucket)
+  * [grails_beta](https://github.com/jdevora/my_scoop_bucket/blob/master/grails_beta.json)
 
 
