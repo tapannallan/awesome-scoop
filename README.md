@@ -64,6 +64,7 @@ A collection of awesome resource for the scoop package manager for windows
   * [intellitrace](https://github.com/wangzq/scoop-bucket/blob/master/intellitrace.json)
   * [http.sys-manager](https://github.com/wangzq/scoop-bucket/blob/master/http.sys-manager.json)
   * [rdcman](https://github.com/wangzq/scoop-bucket/blob/master/rdcman.json)
+  * [openapi-generator-cli](https://github.com/wangzq/scoop-bucket/blob/master/openapi-generator-cli.json)
   * [pfm](https://github.com/wangzq/scoop-bucket/blob/master/pfm.json)
   * [xrmtoolbox](https://github.com/wangzq/scoop-bucket/blob/master/xrmtoolbox.json)
   * [vcredist2015](https://github.com/wangzq/scoop-bucket/blob/master/vcredist2015.json)
@@ -84,6 +85,7 @@ A collection of awesome resource for the scoop package manager for windows
   * [azcopy](https://github.com/wangzq/scoop-bucket/blob/master/azcopy.json)
   * [sqlmetal](https://github.com/wangzq/scoop-bucket/blob/master/sqlmetal.json)
   * [ctt](https://github.com/wangzq/scoop-bucket/blob/master/ctt.json)
+  * [autorest](https://github.com/wangzq/scoop-bucket/blob/master/autorest.json)
   * [fsharp.compiler.codedom](https://github.com/wangzq/scoop-bucket/blob/master/fsharp.compiler.codedom.json)
   * [dnspy-wangzq](https://github.com/wangzq/scoop-bucket/blob/master/dnspy-wangzq.json)
   * [treesize](https://github.com/wangzq/scoop-bucket/blob/master/treesize.json)
@@ -935,6 +937,7 @@ A collection of awesome resource for the scoop package manager for windows
 [https://github.com/alextwothousand/scoop-bucket](https://github.com/alextwothousand/scoop-bucket)
   * [openssl-developer](https://github.com/alextwothousand/scoop-bucket/blob/master/openssl-developer.json)
   * [luapower](https://github.com/alextwothousand/scoop-bucket/blob/master/luapower.json)
+  * [luvi](https://github.com/alextwothousand/scoop-bucket/blob/master/luvi.json)
   * [winfetch](https://github.com/alextwothousand/scoop-bucket/blob/master/winfetch.json)
   * [cpu-z-rog](https://github.com/alextwothousand/scoop-bucket/blob/master/cpu-z-rog.json)
   * [touch-go](https://github.com/alextwothousand/scoop-bucket/blob/master/touch-go.json)
@@ -944,6 +947,7 @@ A collection of awesome resource for the scoop package manager for windows
   * [sampctl](https://github.com/alextwothousand/scoop-bucket/blob/master/sampctl.json)
   * [pscore](https://github.com/alextwothousand/scoop-bucket/blob/master/pscore.json)
   * [0x0](https://github.com/alextwothousand/scoop-bucket/blob/master/0x0.json)
+  * [sqls](https://github.com/alextwothousand/scoop-bucket/blob/master/sqls.json)
 
 
 
@@ -1551,6 +1555,7 @@ A collection of awesome resource for the scoop package manager for windows
   * [dnscrypt-proxy](https://github.com/rivy/scoop.bucket.scoop-main/blob/master/dnscrypt-proxy.json)
   * [scholdoc](https://github.com/rivy/scoop.bucket.scoop-main/blob/master/scholdoc.json)
   * [potrace](https://github.com/rivy/scoop.bucket.scoop-main/blob/master/potrace.json)
+  * [glitter](https://github.com/rivy/scoop.bucket.scoop-main/blob/master/glitter.json)
   * [ffmpeg-nightly-shared](https://github.com/rivy/scoop.bucket.scoop-main/blob/master/ffmpeg-nightly-shared.json)
   * [dotnet](https://github.com/rivy/scoop.bucket.scoop-main/blob/master/dotnet.json)
   * [starship](https://github.com/rivy/scoop.bucket.scoop-main/blob/master/starship.json)
