@@ -172,6 +172,32 @@ A collection of awesome resource for the scoop package manager for windows
 
 
 
+[https://github.com/tetradice/scoop-iyokan-jp](https://github.com/tetradice/scoop-iyokan-jp)
+  * [mery](https://github.com/tetradice/scoop-iyokan-jp/blob/master/mery.json)
+  * [tablacus-explorer](https://github.com/tetradice/scoop-iyokan-jp/blob/master/tablacus-explorer.json)
+  * [crystaldiskinfo](https://github.com/tetradice/scoop-iyokan-jp/blob/master/crystaldiskinfo.json)
+  * [bluewind](https://github.com/tetradice/scoop-iyokan-jp/blob/master/bluewind.json)
+  * [bluewind170b](https://github.com/tetradice/scoop-iyokan-jp/blob/master/bluewind170b.json)
+  * [nyagos](https://github.com/tetradice/scoop-iyokan-jp/blob/master/nyagos.json)
+  * [rdiff-backup](https://github.com/tetradice/scoop-iyokan-jp/blob/master/rdiff-backup.json)
+  * [putty-ranvis](https://github.com/tetradice/scoop-iyokan-jp/blob/master/putty-ranvis.json)
+  * [massigra](https://github.com/tetradice/scoop-iyokan-jp/blob/master/massigra.json)
+  * [ssp](https://github.com/tetradice/scoop-iyokan-jp/blob/master/ssp.json)
+  * [crystaldiskmark-shizuku](https://github.com/tetradice/scoop-iyokan-jp/blob/master/crystaldiskmark-shizuku.json)
+  * [crystaldiskinfo-shizuku](https://github.com/tetradice/scoop-iyokan-jp/blob/master/crystaldiskinfo-shizuku.json)
+  * [crystaldiskinfo-kureikei](https://github.com/tetradice/scoop-iyokan-jp/blob/master/crystaldiskinfo-kureikei.json)
+  * [mery-beta](https://github.com/tetradice/scoop-iyokan-jp/blob/master/mery-beta.json)
+  * [winmerge-jp](https://github.com/tetradice/scoop-iyokan-jp/blob/master/winmerge-jp.json)
+  * [opera](https://github.com/tetradice/scoop-iyokan-jp/blob/master/opera.json)
+  * [exuberantctags-jp](https://github.com/tetradice/scoop-iyokan-jp/blob/master/exuberantctags-jp.json)
+  * [crystaldiskmark](https://github.com/tetradice/scoop-iyokan-jp/blob/master/crystaldiskmark.json)
+  * [sakura-editor](https://github.com/tetradice/scoop-iyokan-jp/blob/master/sakura-editor.json)
+  * [inazumasearch](https://github.com/tetradice/scoop-iyokan-jp/blob/master/inazumasearch.json)
+  * [ckw](https://github.com/tetradice/scoop-iyokan-jp/blob/master/ckw.json)
+  * [nyaos3](https://github.com/tetradice/scoop-iyokan-jp/blob/master/nyaos3.json)
+
+
+
 [https://github.com/nueko/scoop-php](https://github.com/nueko/scoop-php)
   * [php5.5.32](https://github.com/nueko/scoop-php/blob/master/php5.5.32.json)
   * [php5.4.27](https://github.com/nueko/scoop-php/blob/master/php5.4.27.json)
@@ -627,32 +653,6 @@ A collection of awesome resource for the scoop package manager for windows
 
 
 
-[https://github.com/tetradice/scoop-iyokan-jp](https://github.com/tetradice/scoop-iyokan-jp)
-  * [mery](https://github.com/tetradice/scoop-iyokan-jp/blob/master/mery.json)
-  * [tablacus-explorer](https://github.com/tetradice/scoop-iyokan-jp/blob/master/tablacus-explorer.json)
-  * [crystaldiskinfo](https://github.com/tetradice/scoop-iyokan-jp/blob/master/crystaldiskinfo.json)
-  * [bluewind](https://github.com/tetradice/scoop-iyokan-jp/blob/master/bluewind.json)
-  * [bluewind170b](https://github.com/tetradice/scoop-iyokan-jp/blob/master/bluewind170b.json)
-  * [nyagos](https://github.com/tetradice/scoop-iyokan-jp/blob/master/nyagos.json)
-  * [rdiff-backup](https://github.com/tetradice/scoop-iyokan-jp/blob/master/rdiff-backup.json)
-  * [putty-ranvis](https://github.com/tetradice/scoop-iyokan-jp/blob/master/putty-ranvis.json)
-  * [massigra](https://github.com/tetradice/scoop-iyokan-jp/blob/master/massigra.json)
-  * [ssp](https://github.com/tetradice/scoop-iyokan-jp/blob/master/ssp.json)
-  * [crystaldiskmark-shizuku](https://github.com/tetradice/scoop-iyokan-jp/blob/master/crystaldiskmark-shizuku.json)
-  * [crystaldiskinfo-shizuku](https://github.com/tetradice/scoop-iyokan-jp/blob/master/crystaldiskinfo-shizuku.json)
-  * [crystaldiskinfo-kureikei](https://github.com/tetradice/scoop-iyokan-jp/blob/master/crystaldiskinfo-kureikei.json)
-  * [mery-beta](https://github.com/tetradice/scoop-iyokan-jp/blob/master/mery-beta.json)
-  * [winmerge-jp](https://github.com/tetradice/scoop-iyokan-jp/blob/master/winmerge-jp.json)
-  * [opera](https://github.com/tetradice/scoop-iyokan-jp/blob/master/opera.json)
-  * [exuberantctags-jp](https://github.com/tetradice/scoop-iyokan-jp/blob/master/exuberantctags-jp.json)
-  * [crystaldiskmark](https://github.com/tetradice/scoop-iyokan-jp/blob/master/crystaldiskmark.json)
-  * [sakura-editor](https://github.com/tetradice/scoop-iyokan-jp/blob/master/sakura-editor.json)
-  * [inazumasearch](https://github.com/tetradice/scoop-iyokan-jp/blob/master/inazumasearch.json)
-  * [ckw](https://github.com/tetradice/scoop-iyokan-jp/blob/master/ckw.json)
-  * [nyaos3](https://github.com/tetradice/scoop-iyokan-jp/blob/master/nyaos3.json)
-
-
-
 [https://github.com/nueko/php-ext-bucket](https://github.com/nueko/php-ext-bucket)
   * [php71-phalcon](https://github.com/nueko/php-ext-bucket/blob/master/php71-phalcon.json)
   * [php71-timezonedb](https://github.com/nueko/php-ext-bucket/blob/master/php71-timezonedb.json)
@@ -851,6 +851,23 @@ A collection of awesome resource for the scoop package manager for windows
 
 
 
+[https://github.com/alextwothousand/scoop-bucket](https://github.com/alextwothousand/scoop-bucket)
+  * [openssl-developer](https://github.com/alextwothousand/scoop-bucket/blob/master/openssl-developer.json)
+  * [luapower](https://github.com/alextwothousand/scoop-bucket/blob/master/luapower.json)
+  * [luvi](https://github.com/alextwothousand/scoop-bucket/blob/master/luvi.json)
+  * [winfetch](https://github.com/alextwothousand/scoop-bucket/blob/master/winfetch.json)
+  * [cpu-z-rog](https://github.com/alextwothousand/scoop-bucket/blob/master/cpu-z-rog.json)
+  * [touch-go](https://github.com/alextwothousand/scoop-bucket/blob/master/touch-go.json)
+  * [nirsoft-dllexportviewer](https://github.com/alextwothousand/scoop-bucket/blob/master/nirsoft-dllexportviewer.json)
+  * [geforce-experience](https://github.com/alextwothousand/scoop-bucket/blob/master/geforce-experience.json)
+  * [archwsl2](https://github.com/alextwothousand/scoop-bucket/blob/master/archwsl2.json)
+  * [sampctl](https://github.com/alextwothousand/scoop-bucket/blob/master/sampctl.json)
+  * [pscore](https://github.com/alextwothousand/scoop-bucket/blob/master/pscore.json)
+  * [0x0](https://github.com/alextwothousand/scoop-bucket/blob/master/0x0.json)
+  * [sqls](https://github.com/alextwothousand/scoop-bucket/blob/master/sqls.json)
+
+
+
 [https://github.com/NSIS-Dev/scoop-nsis](https://github.com/NSIS-Dev/scoop-nsis)
   * [package-lock](https://github.com/NSIS-Dev/scoop-nsis/blob/master/package-lock.json)
   * [package](https://github.com/NSIS-Dev/scoop-nsis/blob/master/package.json)
@@ -931,23 +948,6 @@ A collection of awesome resource for the scoop package manager for windows
 [https://github.com/onlyice/scoop-bucket](https://github.com/onlyice/scoop-bucket)
   * [qshell](https://github.com/onlyice/scoop-bucket/blob/master/qshell.json)
   * [cosupload](https://github.com/onlyice/scoop-bucket/blob/master/cosupload.json)
-
-
-
-[https://github.com/alextwothousand/scoop-bucket](https://github.com/alextwothousand/scoop-bucket)
-  * [openssl-developer](https://github.com/alextwothousand/scoop-bucket/blob/master/openssl-developer.json)
-  * [luapower](https://github.com/alextwothousand/scoop-bucket/blob/master/luapower.json)
-  * [luvi](https://github.com/alextwothousand/scoop-bucket/blob/master/luvi.json)
-  * [winfetch](https://github.com/alextwothousand/scoop-bucket/blob/master/winfetch.json)
-  * [cpu-z-rog](https://github.com/alextwothousand/scoop-bucket/blob/master/cpu-z-rog.json)
-  * [touch-go](https://github.com/alextwothousand/scoop-bucket/blob/master/touch-go.json)
-  * [nirsoft-dllexportviewer](https://github.com/alextwothousand/scoop-bucket/blob/master/nirsoft-dllexportviewer.json)
-  * [geforce-experience](https://github.com/alextwothousand/scoop-bucket/blob/master/geforce-experience.json)
-  * [archwsl2](https://github.com/alextwothousand/scoop-bucket/blob/master/archwsl2.json)
-  * [sampctl](https://github.com/alextwothousand/scoop-bucket/blob/master/sampctl.json)
-  * [pscore](https://github.com/alextwothousand/scoop-bucket/blob/master/pscore.json)
-  * [0x0](https://github.com/alextwothousand/scoop-bucket/blob/master/0x0.json)
-  * [sqls](https://github.com/alextwothousand/scoop-bucket/blob/master/sqls.json)
 
 
 
