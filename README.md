@@ -11,6 +11,11 @@ A collection of awesome resource for the scoop package manager for windows
 
 
 
+[https://github.com/integzz/scoopet](https://github.com/integzz/scoopet)
+  * [package](https://github.com/integzz/scoopet/blob/master/package.json)
+
+
+
 [https://github.com/wangzq/scoop-bucket](https://github.com/wangzq/scoop-bucket)
   * [fusionpp](https://github.com/wangzq/scoop-bucket/blob/master/fusionpp.json)
   * [clrinject](https://github.com/wangzq/scoop-bucket/blob/master/clrinject.json)
@@ -164,11 +169,6 @@ A collection of awesome resource for the scoop package manager for windows
   * [codesearch](https://github.com/wangzq/scoop-bucket/blob/master/codesearch.json)
   * [openjdk-with-jfx](https://github.com/wangzq/scoop-bucket/blob/master/openjdk-with-jfx.json)
   * [Wangzq.VimHelpers](https://github.com/wangzq/scoop-bucket/blob/master/Wangzq.VimHelpers.json)
-
-
-
-[https://github.com/integzz/scoopet](https://github.com/integzz/scoopet)
-  * [package](https://github.com/integzz/scoopet/blob/master/package.json)
 
 
 
@@ -875,6 +875,7 @@ A collection of awesome resource for the scoop package manager for windows
 
 
 [https://github.com/hulucc/bucket](https://github.com/hulucc/bucket)
+  * [dapr](https://github.com/hulucc/bucket/blob/master/dapr.json)
   * [depot_tools](https://github.com/hulucc/bucket/blob/master/depot_tools.json)
   * [vim81](https://github.com/hulucc/bucket/blob/master/vim81.json)
   * [xkb-switch](https://github.com/hulucc/bucket/blob/master/xkb-switch.json)
@@ -901,6 +902,12 @@ A collection of awesome resource for the scoop package manager for windows
   * [source-han-code-jp](https://github.com/dooteeen/scoop-for-jp/blob/master/source-han-code-jp.json)
   * [myrica](https://github.com/dooteeen/scoop-for-jp/blob/master/myrica.json)
   * [vim-kaoriya](https://github.com/dooteeen/scoop-for-jp/blob/master/vim-kaoriya.json)
+
+
+
+[https://github.com/onlyice/scoop-bucket](https://github.com/onlyice/scoop-bucket)
+  * [qshell](https://github.com/onlyice/scoop-bucket/blob/master/qshell.json)
+  * [cosupload](https://github.com/onlyice/scoop-bucket/blob/master/cosupload.json)
 
 
 
@@ -942,12 +949,6 @@ A collection of awesome resource for the scoop package manager for windows
   * [gpmm](https://github.com/nickbudi/scoop-bucket/blob/master/gpmm.json)
   * [crystaldiskmark-portable](https://github.com/nickbudi/scoop-bucket/blob/master/crystaldiskmark-portable.json)
   * [modorganizer2](https://github.com/nickbudi/scoop-bucket/blob/master/modorganizer2.json)
-
-
-
-[https://github.com/onlyice/scoop-bucket](https://github.com/onlyice/scoop-bucket)
-  * [qshell](https://github.com/onlyice/scoop-bucket/blob/master/qshell.json)
-  * [cosupload](https://github.com/onlyice/scoop-bucket/blob/master/cosupload.json)
 
 
 
@@ -1847,10 +1848,5 @@ A collection of awesome resource for the scoop package manager for windows
 
 [https://github.com/podhmo/scoop-buckets](https://github.com/podhmo/scoop-buckets)
   * [xkeymacs](https://github.com/podhmo/scoop-buckets/blob/master/xkeymacs.json)
-
-
-
-[https://github.com/jdevora/my_scoop_bucket](https://github.com/jdevora/my_scoop_bucket)
-  * [grails_beta](https://github.com/jdevora/my_scoop_bucket/blob/master/grails_beta.json)
 
 
