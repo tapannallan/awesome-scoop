@@ -11,11 +11,6 @@ A collection of awesome resource for the scoop package manager for windows
 
 
 
-[https://github.com/integzz/scoopet](https://github.com/integzz/scoopet)
-  * [package](https://github.com/integzz/scoopet/blob/master/package.json)
-
-
-
 [https://github.com/wangzq/scoop-bucket](https://github.com/wangzq/scoop-bucket)
   * [fusionpp](https://github.com/wangzq/scoop-bucket/blob/master/fusionpp.json)
   * [clrinject](https://github.com/wangzq/scoop-bucket/blob/master/clrinject.json)
@@ -52,7 +47,6 @@ A collection of awesome resource for the scoop package manager for windows
   * [vcredist2010](https://github.com/wangzq/scoop-bucket/blob/master/vcredist2010.json)
   * [Vim2ConEmu](https://github.com/wangzq/scoop-bucket/blob/master/Vim2ConEmu.json)
   * [restart-chrome](https://github.com/wangzq/scoop-bucket/blob/master/restart-chrome.json)
-  * [ilspy-alt](https://github.com/wangzq/scoop-bucket/blob/master/ilspy-alt.json)
   * [dnspy-settings](https://github.com/wangzq/scoop-bucket/blob/master/dnspy-settings.json)
   * [MonitorProfileSwitcher](https://github.com/wangzq/scoop-bucket/blob/master/MonitorProfileSwitcher.json)
   * [uptime](https://github.com/wangzq/scoop-bucket/blob/master/uptime.json)
@@ -78,6 +72,7 @@ A collection of awesome resource for the scoop package manager for windows
   * [gptgen](https://github.com/wangzq/scoop-bucket/blob/master/gptgen.json)
   * [winscp](https://github.com/wangzq/scoop-bucket/blob/master/winscp.json)
   * [linkd](https://github.com/wangzq/scoop-bucket/blob/master/linkd.json)
+  * [mdict](https://github.com/wangzq/scoop-bucket/blob/master/mdict.json)
   * [yumi](https://github.com/wangzq/scoop-bucket/blob/master/yumi.json)
   * [physdiskwrite](https://github.com/wangzq/scoop-bucket/blob/master/physdiskwrite.json)
   * [ilmerge](https://github.com/wangzq/scoop-bucket/blob/master/ilmerge.json)
@@ -169,6 +164,11 @@ A collection of awesome resource for the scoop package manager for windows
   * [codesearch](https://github.com/wangzq/scoop-bucket/blob/master/codesearch.json)
   * [openjdk-with-jfx](https://github.com/wangzq/scoop-bucket/blob/master/openjdk-with-jfx.json)
   * [Wangzq.VimHelpers](https://github.com/wangzq/scoop-bucket/blob/master/Wangzq.VimHelpers.json)
+
+
+
+[https://github.com/integzz/scoopet](https://github.com/integzz/scoopet)
+  * [package](https://github.com/integzz/scoopet/blob/master/package.json)
 
 
 
@@ -853,13 +853,11 @@ A collection of awesome resource for the scoop package manager for windows
 
 [https://github.com/alextwothousand/scoop-bucket](https://github.com/alextwothousand/scoop-bucket)
   * [openssl-developer](https://github.com/alextwothousand/scoop-bucket/blob/master/openssl-developer.json)
-  * [luapower](https://github.com/alextwothousand/scoop-bucket/blob/master/luapower.json)
-  * [luvi](https://github.com/alextwothousand/scoop-bucket/blob/master/luvi.json)
+  * [luajit](https://github.com/alextwothousand/scoop-bucket/blob/master/luajit.json)
   * [winfetch](https://github.com/alextwothousand/scoop-bucket/blob/master/winfetch.json)
   * [cpu-z-rog](https://github.com/alextwothousand/scoop-bucket/blob/master/cpu-z-rog.json)
   * [touch-go](https://github.com/alextwothousand/scoop-bucket/blob/master/touch-go.json)
   * [nirsoft-dllexportviewer](https://github.com/alextwothousand/scoop-bucket/blob/master/nirsoft-dllexportviewer.json)
-  * [geforce-experience](https://github.com/alextwothousand/scoop-bucket/blob/master/geforce-experience.json)
   * [archwsl2](https://github.com/alextwothousand/scoop-bucket/blob/master/archwsl2.json)
   * [sampctl](https://github.com/alextwothousand/scoop-bucket/blob/master/sampctl.json)
   * [pscore](https://github.com/alextwothousand/scoop-bucket/blob/master/pscore.json)
@@ -905,12 +903,6 @@ A collection of awesome resource for the scoop package manager for windows
 
 
 
-[https://github.com/onlyice/scoop-bucket](https://github.com/onlyice/scoop-bucket)
-  * [qshell](https://github.com/onlyice/scoop-bucket/blob/master/qshell.json)
-  * [cosupload](https://github.com/onlyice/scoop-bucket/blob/master/cosupload.json)
-
-
-
 [https://github.com/nickbudi/scoop-bucket](https://github.com/nickbudi/scoop-bucket)
   * [bethesda](https://github.com/nickbudi/scoop-bucket/blob/master/bethesda.json)
   * [elderscrollsonline](https://github.com/nickbudi/scoop-bucket/blob/master/elderscrollsonline.json)
@@ -949,6 +941,12 @@ A collection of awesome resource for the scoop package manager for windows
   * [gpmm](https://github.com/nickbudi/scoop-bucket/blob/master/gpmm.json)
   * [crystaldiskmark-portable](https://github.com/nickbudi/scoop-bucket/blob/master/crystaldiskmark-portable.json)
   * [modorganizer2](https://github.com/nickbudi/scoop-bucket/blob/master/modorganizer2.json)
+
+
+
+[https://github.com/onlyice/scoop-bucket](https://github.com/onlyice/scoop-bucket)
+  * [qshell](https://github.com/onlyice/scoop-bucket/blob/master/qshell.json)
+  * [cosupload](https://github.com/onlyice/scoop-bucket/blob/master/cosupload.json)
 
 
 
@@ -1151,6 +1149,7 @@ A collection of awesome resource for the scoop package manager for windows
   * [which](https://github.com/rivy/scoop.bucket.scoop-main/blob/master/which.json)
   * [shim](https://github.com/rivy/scoop.bucket.scoop-main/blob/master/shim.json)
   * [msys2](https://github.com/rivy/scoop.bucket.scoop-main/blob/master/msys2.json)
+  * [hcloud](https://github.com/rivy/scoop.bucket.scoop-main/blob/master/hcloud.json)
   * [memcached](https://github.com/rivy/scoop.bucket.scoop-main/blob/master/memcached.json)
   * [nodejs](https://github.com/rivy/scoop.bucket.scoop-main/blob/master/nodejs.json)
   * [autoit](https://github.com/rivy/scoop.bucket.scoop-main/blob/master/autoit.json)
@@ -1291,6 +1290,7 @@ A collection of awesome resource for the scoop package manager for windows
   * [syncany-cli](https://github.com/rivy/scoop.bucket.scoop-main/blob/master/syncany-cli.json)
   * [scaleway-cli](https://github.com/rivy/scoop.bucket.scoop-main/blob/master/scaleway-cli.json)
   * [wttop](https://github.com/rivy/scoop.bucket.scoop-main/blob/master/wttop.json)
+  * [jd-cli](https://github.com/rivy/scoop.bucket.scoop-main/blob/master/jd-cli.json)
   * [postgresql](https://github.com/rivy/scoop.bucket.scoop-main/blob/master/postgresql.json)
   * [exercism](https://github.com/rivy/scoop.bucket.scoop-main/blob/master/exercism.json)
   * [yq](https://github.com/rivy/scoop.bucket.scoop-main/blob/master/yq.json)
