@@ -960,6 +960,11 @@ A collection of awesome resource for the scoop package manager for windows
 
 
 
+[https://github.com/replit/scoop-bucket](https://github.com/replit/scoop-bucket)
+  * [upm](https://github.com/replit/scoop-bucket/blob/master/upm.json)
+
+
+
 [https://github.com/comp500/scoop-comp500](https://github.com/comp500/scoop-comp500)
   * [titledumper](https://github.com/comp500/scoop-comp500/blob/master/titledumper.json)
   * [famitracker](https://github.com/comp500/scoop-comp500/blob/master/famitracker.json)
@@ -1588,6 +1593,7 @@ A collection of awesome resource for the scoop package manager for windows
   * [vulkan](https://github.com/rivy/scoop.bucket.scoop-main/blob/master/vulkan.json)
   * [yarn](https://github.com/rivy/scoop.bucket.scoop-main/blob/master/yarn.json)
   * [clash](https://github.com/rivy/scoop.bucket.scoop-main/blob/master/clash.json)
+  * [containerd](https://github.com/rivy/scoop.bucket.scoop-main/blob/master/containerd.json)
   * [peco](https://github.com/rivy/scoop.bucket.scoop-main/blob/master/peco.json)
   * [gitignore](https://github.com/rivy/scoop.bucket.scoop-main/blob/master/gitignore.json)
   * [win32-openssh](https://github.com/rivy/scoop.bucket.scoop-main/blob/master/win32-openssh.json)
@@ -1833,11 +1839,6 @@ A collection of awesome resource for the scoop package manager for windows
 [https://github.com/kingchang/scoop-buckets](https://github.com/kingchang/scoop-buckets)
   * [intellij-idea-ce](https://github.com/kingchang/scoop-buckets/blob/master/intellij-idea-ce.json)
   * [intellij-idea](https://github.com/kingchang/scoop-buckets/blob/master/intellij-idea.json)
-
-
-
-[https://github.com/replit/scoop-bucket](https://github.com/replit/scoop-bucket)
-  * [upm](https://github.com/replit/scoop-bucket/blob/master/upm.json)
 
 
 
