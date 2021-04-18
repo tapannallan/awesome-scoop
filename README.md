@@ -11,6 +11,11 @@ A collection of awesome resource for the scoop package manager for windows
 
 
 
+[https://github.com/integzz/scoopet](https://github.com/integzz/scoopet)
+  * [package](https://github.com/integzz/scoopet/blob/master/package.json)
+
+
+
 [https://github.com/wangzq/scoop-bucket](https://github.com/wangzq/scoop-bucket)
   * [fusionpp](https://github.com/wangzq/scoop-bucket/blob/master/fusionpp.json)
   * [clrinject](https://github.com/wangzq/scoop-bucket/blob/master/clrinject.json)
@@ -20,6 +25,7 @@ A collection of awesome resource for the scoop package manager for windows
   * [xunit.runner.wpf](https://github.com/wangzq/scoop-bucket/blob/master/xunit.runner.wpf.json)
   * [myfirefox](https://github.com/wangzq/scoop-bucket/blob/master/myfirefox.json)
   * [clrprofiler](https://github.com/wangzq/scoop-bucket/blob/master/clrprofiler.json)
+  * [cs-script3](https://github.com/wangzq/scoop-bucket/blob/master/cs-script3.json)
   * [msos](https://github.com/wangzq/scoop-bucket/blob/master/msos.json)
   * [sqliteadmin](https://github.com/wangzq/scoop-bucket/blob/master/sqliteadmin.json)
   * [ilspycmd](https://github.com/wangzq/scoop-bucket/blob/master/ilspycmd.json)
@@ -27,6 +33,7 @@ A collection of awesome resource for the scoop package manager for windows
   * [selfssl](https://github.com/wangzq/scoop-bucket/blob/master/selfssl.json)
   * [subinacl](https://github.com/wangzq/scoop-bucket/blob/master/subinacl.json)
   * [winrm-https](https://github.com/wangzq/scoop-bucket/blob/master/winrm-https.json)
+  * [cs-script](https://github.com/wangzq/scoop-bucket/blob/master/cs-script.json)
   * [logparser](https://github.com/wangzq/scoop-bucket/blob/master/logparser.json)
   * [dnspylinks](https://github.com/wangzq/scoop-bucket/blob/master/dnspylinks.json)
   * [everything-cli](https://github.com/wangzq/scoop-bucket/blob/master/everything-cli.json)
@@ -44,6 +51,7 @@ A collection of awesome resource for the scoop package manager for windows
   * [selenium-dotnet](https://github.com/wangzq/scoop-bucket/blob/master/selenium-dotnet.json)
   * [windbg](https://github.com/wangzq/scoop-bucket/blob/master/windbg.json)
   * [pstools](https://github.com/wangzq/scoop-bucket/blob/master/pstools.json)
+  * [q](https://github.com/wangzq/scoop-bucket/blob/master/q.json)
   * [fsharp4](https://github.com/wangzq/scoop-bucket/blob/master/fsharp4.json)
   * [windbg32](https://github.com/wangzq/scoop-bucket/blob/master/windbg32.json)
   * [TraceSpy](https://github.com/wangzq/scoop-bucket/blob/master/TraceSpy.json)
@@ -170,11 +178,6 @@ A collection of awesome resource for the scoop package manager for windows
   * [codesearch](https://github.com/wangzq/scoop-bucket/blob/master/codesearch.json)
   * [openjdk-with-jfx](https://github.com/wangzq/scoop-bucket/blob/master/openjdk-with-jfx.json)
   * [Wangzq.VimHelpers](https://github.com/wangzq/scoop-bucket/blob/master/Wangzq.VimHelpers.json)
-
-
-
-[https://github.com/integzz/scoopet](https://github.com/integzz/scoopet)
-  * [package](https://github.com/integzz/scoopet/blob/master/package.json)
 
 
 
@@ -1795,6 +1798,11 @@ A collection of awesome resource for the scoop package manager for windows
 
 
 
+[https://github.com/twpayne/scoop-bucket](https://github.com/twpayne/scoop-bucket)
+  * [chezmoi](https://github.com/twpayne/scoop-bucket/blob/master/chezmoi.json)
+
+
+
 [https://github.com/comp500/scoop-comp500](https://github.com/comp500/scoop-comp500)
   * [titledumper](https://github.com/comp500/scoop-comp500/blob/master/titledumper.json)
   * [famitracker](https://github.com/comp500/scoop-comp500/blob/master/famitracker.json)
@@ -1860,12 +1868,12 @@ A collection of awesome resource for the scoop package manager for windows
 
 
 
-[https://github.com/willvsmvp/scoop-buckets](https://github.com/willvsmvp/scoop-buckets)
-  * [demo](https://github.com/willvsmvp/scoop-buckets/blob/master/demo.json)
-
-
-
 [https://github.com/podhmo/scoop-buckets](https://github.com/podhmo/scoop-buckets)
   * [xkeymacs](https://github.com/podhmo/scoop-buckets/blob/master/xkeymacs.json)
+
+
+
+[https://github.com/willvsmvp/scoop-buckets](https://github.com/willvsmvp/scoop-buckets)
+  * [demo](https://github.com/willvsmvp/scoop-buckets/blob/master/demo.json)
 
 
