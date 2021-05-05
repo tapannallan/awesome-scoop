@@ -1943,4 +1943,6 @@ A collection of awesome resource for the scoop package manager for windows
 [https://github.com/willvsmvp/scoop-buckets](https://github.com/willvsmvp/scoop-buckets)
   * [demo](https://github.com/willvsmvp/scoop-buckets/blob/master/demo.json)
 
+[https://github.com/pgollangi/scoop-bucket](https://github.com/pgollangi/scoop-bucket)
+  * [netselect](https://github.com/pgollangi/scoop-bucket/blob/master/netselect.json)
 
