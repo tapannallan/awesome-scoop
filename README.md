@@ -6,11 +6,6 @@ A collection of awesome resource for the scoop package manager for windows
 
 # Third party buckets by popularity
 
-[https://github.com/chawyehsu/dorado](https://github.com/chawyehsu/dorado)
-  * [package](https://github.com/chawyehsu/dorado/blob/master/package.json)
-
-
-
 [https://github.com/integzz/scoopet](https://github.com/integzz/scoopet)
   * [package](https://github.com/integzz/scoopet/blob/master/package.json)
 
@@ -1545,11 +1540,6 @@ A collection of awesome resource for the scoop package manager for windows
 
 
 
-[https://github.com/Rigellute/scoop-bucket](https://github.com/Rigellute/scoop-bucket)
-  * [spotify-tui](https://github.com/Rigellute/scoop-bucket/blob/master/spotify-tui.json)
-
-
-
 [https://github.com/AStupidBear/scoop-bear](https://github.com/AStupidBear/scoop-bear)
   * [wgestures](https://github.com/AStupidBear/scoop-bear/blob/master/wgestures.json)
   * [anaconda3](https://github.com/AStupidBear/scoop-bear/blob/master/anaconda3.json)
@@ -1612,13 +1602,18 @@ A collection of awesome resource for the scoop package manager for windows
 
 
 
-[https://github.com/yuanying1199/scoopbucket](https://github.com/yuanying1199/scoopbucket)
-  * [schema](https://github.com/yuanying1199/scoopbucket/blob/master/schema.json)
+[https://github.com/Rigellute/scoop-bucket](https://github.com/Rigellute/scoop-bucket)
+  * [spotify-tui](https://github.com/Rigellute/scoop-bucket/blob/master/spotify-tui.json)
 
 
 
 [https://github.com/snyk/scoop-snyk](https://github.com/snyk/scoop-snyk)
   * [snyk](https://github.com/snyk/scoop-snyk/blob/master/snyk.json)
+
+
+
+[https://github.com/yuanying1199/scoopbucket](https://github.com/yuanying1199/scoopbucket)
+  * [schema](https://github.com/yuanying1199/scoopbucket/blob/master/schema.json)
 
 
 
@@ -1755,6 +1750,12 @@ A collection of awesome resource for the scoop package manager for windows
 
 
 
+[https://github.com/onlyice/scoop-bucket](https://github.com/onlyice/scoop-bucket)
+  * [qshell](https://github.com/onlyice/scoop-bucket/blob/master/qshell.json)
+  * [cosupload](https://github.com/onlyice/scoop-bucket/blob/master/cosupload.json)
+
+
+
 [https://github.com/nickbudi/scoop-bucket](https://github.com/nickbudi/scoop-bucket)
   * [bethesda](https://github.com/nickbudi/scoop-bucket/blob/master/bethesda.json)
   * [elderscrollsonline](https://github.com/nickbudi/scoop-bucket/blob/master/elderscrollsonline.json)
@@ -1796,12 +1797,6 @@ A collection of awesome resource for the scoop package manager for windows
 
 
 
-[https://github.com/onlyice/scoop-bucket](https://github.com/onlyice/scoop-bucket)
-  * [qshell](https://github.com/onlyice/scoop-bucket/blob/master/qshell.json)
-  * [cosupload](https://github.com/onlyice/scoop-bucket/blob/master/cosupload.json)
-
-
-
 [https://github.com/alphagocc/lampyridae](https://github.com/alphagocc/lampyridae)
   * [winlibs-gcc](https://github.com/alphagocc/lampyridae/blob/master/winlibs-gcc.json)
 
@@ -1832,6 +1827,7 @@ A collection of awesome resource for the scoop package manager for windows
   * [obs-studio-cn-bfsu-mirror](https://github.com/athrunsun/scoop-bucket/blob/master/obs-studio-cn-bfsu-mirror.json)
   * [ffmpeg-btbn-gpl](https://github.com/athrunsun/scoop-bucket/blob/master/ffmpeg-btbn-gpl.json)
   * [gvm](https://github.com/athrunsun/scoop-bucket/blob/master/gvm.json)
+  * [kangaroo-portable](https://github.com/athrunsun/scoop-bucket/blob/master/kangaroo-portable.json)
   * [python-embed](https://github.com/athrunsun/scoop-bucket/blob/master/python-embed.json)
   * [adoptopenjdk-8-hotspot-cn-tuna-mirror](https://github.com/athrunsun/scoop-bucket/blob/master/adoptopenjdk-8-hotspot-cn-tuna-mirror.json)
   * [file-types-man](https://github.com/athrunsun/scoop-bucket/blob/master/file-types-man.json)
@@ -1851,12 +1847,14 @@ A collection of awesome resource for the scoop package manager for windows
   * [atom-portable-cn-taobao-mirror](https://github.com/athrunsun/scoop-bucket/blob/master/atom-portable-cn-taobao-mirror.json)
   * [adoptopenjdk-11-openj9-cn-ustc-mirror](https://github.com/athrunsun/scoop-bucket/blob/master/adoptopenjdk-11-openj9-cn-ustc-mirror.json)
   * [amule](https://github.com/athrunsun/scoop-bucket/blob/master/amule.json)
+  * [adoptopenjdk-8-openj9-cn-ustc-mirror](https://github.com/athrunsun/scoop-bucket/blob/master/adoptopenjdk-8-openj9-cn-ustc-mirror.json)
   * [powershell-core-cn-sjtu-mirror](https://github.com/athrunsun/scoop-bucket/blob/master/powershell-core-cn-sjtu-mirror.json)
   * [adoptopenjdk-11-hotspot-cn-tuna-mirror](https://github.com/athrunsun/scoop-bucket/blob/master/adoptopenjdk-11-hotspot-cn-tuna-mirror.json)
   * [annie-binary](https://github.com/athrunsun/scoop-bucket/blob/master/annie-binary.json)
   * [chromium-hibbiki-x64-cn-coding-mirror](https://github.com/athrunsun/scoop-bucket/blob/master/chromium-hibbiki-x64-cn-coding-mirror.json)
   * [blue-screen-view](https://github.com/athrunsun/scoop-bucket/blob/master/blue-screen-view.json)
   * [vscodium-portable-no-context-cn-sjtu-mirror](https://github.com/athrunsun/scoop-bucket/blob/master/vscodium-portable-no-context-cn-sjtu-mirror.json)
+  * [kangaroo-portable-cn-mirror](https://github.com/athrunsun/scoop-bucket/blob/master/kangaroo-portable-cn-mirror.json)
   * [clash](https://github.com/athrunsun/scoop-bucket/blob/master/clash.json)
   * [git-with-openssh-cn-taobao-mirror](https://github.com/athrunsun/scoop-bucket/blob/master/git-with-openssh-cn-taobao-mirror.json)
   * [httpie-go](https://github.com/athrunsun/scoop-bucket/blob/master/httpie-go.json)
