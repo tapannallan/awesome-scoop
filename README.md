@@ -161,10 +161,12 @@ A collection of awesome resource for the scoop package manager for windows
   * [muCommander](https://github.com/wangzq/scoop-bucket/blob/master/muCommander.json)
   * [lua53](https://github.com/wangzq/scoop-bucket/blob/master/lua53.json)
   * [nurefs](https://github.com/wangzq/scoop-bucket/blob/master/nurefs.json)
+  * [webpicmd-alt](https://github.com/wangzq/scoop-bucket/blob/master/webpicmd-alt.json)
   * [IntelliTraceCPConfig](https://github.com/wangzq/scoop-bucket/blob/master/IntelliTraceCPConfig.json)
   * [perfview](https://github.com/wangzq/scoop-bucket/blob/master/perfview.json)
   * [dotnet-core-uninstall](https://github.com/wangzq/scoop-bucket/blob/master/dotnet-core-uninstall.json)
   * [portqry](https://github.com/wangzq/scoop-bucket/blob/master/portqry.json)
+  * [roslynator](https://github.com/wangzq/scoop-bucket/blob/master/roslynator.json)
   * [iedriver](https://github.com/wangzq/scoop-bucket/blob/master/iedriver.json)
   * [keyhh](https://github.com/wangzq/scoop-bucket/blob/master/keyhh.json)
   * [calibre-alt](https://github.com/wangzq/scoop-bucket/blob/master/calibre-alt.json)
@@ -1750,12 +1752,6 @@ A collection of awesome resource for the scoop package manager for windows
 
 
 
-[https://github.com/onlyice/scoop-bucket](https://github.com/onlyice/scoop-bucket)
-  * [qshell](https://github.com/onlyice/scoop-bucket/blob/master/qshell.json)
-  * [cosupload](https://github.com/onlyice/scoop-bucket/blob/master/cosupload.json)
-
-
-
 [https://github.com/nickbudi/scoop-bucket](https://github.com/nickbudi/scoop-bucket)
   * [bethesda](https://github.com/nickbudi/scoop-bucket/blob/master/bethesda.json)
   * [elderscrollsonline](https://github.com/nickbudi/scoop-bucket/blob/master/elderscrollsonline.json)
@@ -1794,6 +1790,12 @@ A collection of awesome resource for the scoop package manager for windows
   * [gpmm](https://github.com/nickbudi/scoop-bucket/blob/master/gpmm.json)
   * [crystaldiskmark-portable](https://github.com/nickbudi/scoop-bucket/blob/master/crystaldiskmark-portable.json)
   * [modorganizer2](https://github.com/nickbudi/scoop-bucket/blob/master/modorganizer2.json)
+
+
+
+[https://github.com/onlyice/scoop-bucket](https://github.com/onlyice/scoop-bucket)
+  * [qshell](https://github.com/onlyice/scoop-bucket/blob/master/qshell.json)
+  * [cosupload](https://github.com/onlyice/scoop-bucket/blob/master/cosupload.json)
 
 
 
