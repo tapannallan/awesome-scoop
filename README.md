@@ -1701,21 +1701,6 @@ A collection of awesome resource for the scoop package manager for windows
 
 
 
-[https://github.com/alextwothousand/scoop-bucket](https://github.com/alextwothousand/scoop-bucket)
-  * [openssl-developer](https://github.com/alextwothousand/scoop-bucket/blob/master/openssl-developer.json)
-  * [luajit](https://github.com/alextwothousand/scoop-bucket/blob/master/luajit.json)
-  * [winfetch](https://github.com/alextwothousand/scoop-bucket/blob/master/winfetch.json)
-  * [cpu-z-rog](https://github.com/alextwothousand/scoop-bucket/blob/master/cpu-z-rog.json)
-  * [touch-go](https://github.com/alextwothousand/scoop-bucket/blob/master/touch-go.json)
-  * [nirsoft-dllexportviewer](https://github.com/alextwothousand/scoop-bucket/blob/master/nirsoft-dllexportviewer.json)
-  * [archwsl2](https://github.com/alextwothousand/scoop-bucket/blob/master/archwsl2.json)
-  * [sampctl](https://github.com/alextwothousand/scoop-bucket/blob/master/sampctl.json)
-  * [pscore](https://github.com/alextwothousand/scoop-bucket/blob/master/pscore.json)
-  * [0x0](https://github.com/alextwothousand/scoop-bucket/blob/master/0x0.json)
-  * [sqls](https://github.com/alextwothousand/scoop-bucket/blob/master/sqls.json)
-
-
-
 [https://github.com/NSIS-Dev/scoop-nsis](https://github.com/NSIS-Dev/scoop-nsis)
   * [package-lock](https://github.com/NSIS-Dev/scoop-nsis/blob/master/package-lock.json)
   * [package](https://github.com/NSIS-Dev/scoop-nsis/blob/master/package.json)
@@ -1941,5 +1926,10 @@ A collection of awesome resource for the scoop package manager for windows
 [https://github.com/kingchang/scoop-buckets](https://github.com/kingchang/scoop-buckets)
   * [intellij-idea-ce](https://github.com/kingchang/scoop-buckets/blob/master/intellij-idea-ce.json)
   * [intellij-idea](https://github.com/kingchang/scoop-buckets/blob/master/intellij-idea.json)
+
+
+
+[https://github.com/willvsmvp/scoop-buckets](https://github.com/willvsmvp/scoop-buckets)
+  * [demo](https://github.com/willvsmvp/scoop-buckets/blob/master/demo.json)
 
 
