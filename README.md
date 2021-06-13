@@ -1928,8 +1928,3 @@ A collection of awesome resource for the scoop package manager for windows
   * [intellij-idea](https://github.com/kingchang/scoop-buckets/blob/master/intellij-idea.json)
 
 
-
-[https://github.com/willvsmvp/scoop-buckets](https://github.com/willvsmvp/scoop-buckets)
-  * [demo](https://github.com/willvsmvp/scoop-buckets/blob/master/demo.json)
-
-
