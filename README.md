@@ -1927,4 +1927,6 @@ A collection of awesome resource for the scoop package manager for windows
   * [intellij-idea-ce](https://github.com/kingchang/scoop-buckets/blob/master/intellij-idea-ce.json)
   * [intellij-idea](https://github.com/kingchang/scoop-buckets/blob/master/intellij-idea.json)
 
+[https://github.com/pgollangi/scoop-bucket](https://github.com/pgollangi/scoop-bucket)
+  * [netselect](https://github.com/pgollangi/scoop-bucket/blob/master/netselect.json)
 
